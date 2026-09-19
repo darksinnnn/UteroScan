@@ -1,6 +1,9 @@
 import torch
 import torch.nn as nn
-from torchvision.models.utils import load_state_dict_from_url
+try:
+    from torch.hub import load_state_dict_from_url
+except ImportError:
+    from torchvision.models.utils import load_state_dict_from_url
 
 model_urls = {
     'resnet18': 'https://download.pytorch.org/models/resnet18-5c106cde.pth',

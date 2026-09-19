@@ -1,0 +1,26 @@
+{
+  "dataset": "Mendeley Uterine Fibroid (Cleaned, 1,747 scans total)",
+  "split": "Held-Out Test Set (Quarantined from training/validation)",
+  "total_test_images": 358,
+  "class_breakdown": {
+    "UF": 171,
+    "NUF": 187
+  },
+  "model_architecture": "ResNet50 (nets/resnet.py)",
+  "checkpoint_evaluated": "resnet50_stage2_best.pth",
+  "evaluation_duration_seconds": 5.839645147323608,
+  "inference_latency_ms_per_image": 16.3118579534179,
+  "test_loss": 0.3527808302607616,
+  "accuracy": 0.8603351955307262,
+  "uf_sensitivity_recall": 0.9473684210526315,
+  "nuf_specificity_recall": 0.7807486631016043,
+  "uf_precision": 0.7980295566502463,
+  "uf_f1_score": 0.8663101604278075,
+  "roc_auc": 0.9530912843606342,
+  "confusion_matrix": {
+    "tp_uf": 162,
+    "fn_uf": 9,
+    "fp_uf": 41,
+    "tn_uf": 146
+  }
+}

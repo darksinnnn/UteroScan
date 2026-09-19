@@ -1,0 +1,56 @@
+{
+  "Current Refined (Resize + 3x3 Median + CLAHE clip=1.2)": [
+    {
+      "epoch": 1,
+      "train_loss": 0.693376989364624,
+      "train_acc": 0.49,
+      "val_loss": 0.6602569437026977,
+      "val_acc": 0.56,
+      "epoch_seconds": 3.9460721015930176
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.56818488240242,
+      "train_acc": 0.82,
+      "val_loss": 0.5854679489135742,
+      "val_acc": 0.82,
+      "epoch_seconds": 2.6357924938201904
+    }
+  ],
+  "Light Variant (Resize + CLAHE clip=1.2, No Median)": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6937101078033447,
+      "train_acc": 0.51,
+      "val_loss": 0.6679484701156616,
+      "val_acc": 0.52,
+      "epoch_seconds": 2.5902843475341797
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.5669741487503052,
+      "train_acc": 0.78,
+      "val_loss": 0.620858702659607,
+      "val_acc": 0.72,
+      "epoch_seconds": 2.732581377029419
+    }
+  ],
+  "Raw Baseline (Resize Only, No Median, No CLAHE)": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6875285482406617,
+      "train_acc": 0.5,
+      "val_loss": 0.6572517538070679,
+      "val_acc": 0.6,
+      "epoch_seconds": 2.426745891571045
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.5535392713546753,
+      "train_acc": 0.82,
+      "val_loss": 0.5885526907444,
+      "val_acc": 0.78,
+      "epoch_seconds": 2.4264001846313477
+    }
+  ]
+}
