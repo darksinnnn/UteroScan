@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+myenv/
+
+# IDE & OS
+.idea/
+.vscode/
+.gemini/
+*.swp
+*.swo
+*~
+Thumbs.db
+Desktop.ini
+
+# Archives & Large Downloads
+*.rar
+*.zip
+*.7z
+*.tar.gz
+*.tar
+*.iso
+
+# Datasets and Images
+datasets/
+data/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+verify_output/
+
+# Model Weights & Checkpoints
+checkpoints/
+*.pth
+*.pt
+*.h5
+*.ckpt
+*.bin
+*.onnx
+*.engine
+
+# Logs & Diagnostics
+logs/
+*.log
+diagnostic_results.csv
+
+# Temporary files
+scratch/
+temp/
+tmp/
