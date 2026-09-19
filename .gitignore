@@ -56,9 +56,18 @@ data/
 *.bmp
 *.tiff
 verify_output/
+!reports/**/*.png
+!reports/*.png
+!data/excluded/*.csv
 
 # Model Weights & Checkpoints
-checkpoints/
+checkpoints/*.pth
+checkpoints/*.pt
+checkpoints/*.h5
+checkpoints/*.bin
+checkpoints/*.ckpt
+checkpoints/*.onnx
+checkpoints/*.engine
 *.pth
 *.pt
 *.h5

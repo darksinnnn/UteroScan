@@ -8,34 +8,61 @@ from .utils import cvtColor, preprocess_input
 from .utils_aug import CenterCrop, ImageNetPolicy, RandomResizedCrop, Resize
 
 
+from pathlib import Path
+from .preprocessing import preprocess_ultrasound
+from .augmentation import get_ultrasound_train_transforms
+
+
 class DataGenerator(data.Dataset):
     def __init__(self, annotation_lines, input_shape, random=True, autoaugment_flag=True):
         self.annotation_lines   = annotation_lines
         self.input_shape        = input_shape
         self.random             = random
         
-        self.autoaugment_flag   = autoaugment_flag
-        if self.autoaugment_flag:
-            self.resize_crop = RandomResizedCrop(input_shape)
-            self.policy      = ImageNetPolicy()
-            
-            self.resize      = Resize(input_shape[0] if input_shape[0] == input_shape[1] else input_shape)
-            self.center_crop = CenterCrop(input_shape)
+        # Phase 2: Clinical ultrasound augmentation pipeline for training only
+        self.train_transforms   = get_ultrasound_train_transforms() if self.random else None
 
     def __len__(self):
         return len(self.annotation_lines)
 
+    def _resolve_path(self, path_str):
+        p = Path(path_str)
+        if p.is_file():
+            return str(p)
+        candidates = [
+            Path("datasets") / p,
+            Path("..") / ".." / "datasets" / "datasets" / Path(*p.parts[1:] if len(p.parts) > 1 else p.parts),
+            Path("d:/Project/UteroScan/datasets/datasets") / Path(*p.parts[1:] if len(p.parts) > 1 else p.parts),
+            Path("d:/Project/UteroScan/datasets/datasets") / p,
+            Path("d:/Project/UteroScan") / p
+        ]
+        for c in candidates:
+            if c.is_file():
+                return str(c)
+        return path_str
+
     def __getitem__(self, index):
         annotation_path = self.annotation_lines[index].split(';')[1].split()[0]
-        image = Image.open(annotation_path)
+        resolved_path = self._resolve_path(annotation_path)
+        image = Image.open(resolved_path)
         #------------------------------#
         #   读取图像并转换成RGB图像
         #------------------------------#
-        image   = cvtColor(image)
-        if self.autoaugment_flag:
-            image = self.AutoAugment(image, random=self.random)
-        else:
-            image = self.get_random_data(image, self.input_shape, random=self.random)
+        image = cvtColor(image)
+
+        #--------------------------------------------------------------#
+        #   Phase 1: 临床超声预处理 (224x224 INTER_AREA, 中值滤波降斑, CLAHE对比度增强)
+        #--------------------------------------------------------------#
+        image = preprocess_ultrasound(image, target_size=(self.input_shape[1], self.input_shape[0]))
+
+        #--------------------------------------------------------------#
+        #   Phase 2: 临床超声数据增强 (仅应用于训练集: 旋转±15°, 水平翻转, 缩放0.9-1.1, 错切±10°; 严禁垂直翻转)
+        #--------------------------------------------------------------#
+        if self.random and self.train_transforms is not None:
+            image = Image.fromarray(image)
+            image = self.train_transforms(image)
+            image = np.array(image)
+
         image = np.transpose(preprocess_input(np.array(image).astype(np.float32)), [2, 0, 1])
 
         y = int(self.annotation_lines[index].split(';')[0])

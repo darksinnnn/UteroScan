@@ -101,6 +101,8 @@ UteroScan/
 
 **App/UI folder intentionally does not exist yet** — do not create `app/`, `main.py`, `templates/` etc. in this phase.
 
+> **Path Resolution Note:** Annotations in `cls_train.txt` and `cls_test.txt` list relative paths like `datasets\train\UF\...`. Rather than relying on fragile OS-level directory junctions or symlinks, `DataGenerator` in `utils/dataloader.py` includes a `_resolve_path()` helper that dynamically maps relative dataset paths to `datasets/datasets/{split}/{class}/{filename}` seamlessly whether scripts are executed from project root or inside `DCGAN&MobileNetV2/`.
+
 ---
 
 ## 3. Preprocessing Module
