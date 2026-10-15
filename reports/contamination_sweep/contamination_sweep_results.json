@@ -1,0 +1,2586 @@
+[
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11244069.3499796822.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11244069.3499796822.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "01/13/2020 09:08:43 早孕 TIS0.1 MI 1.0 C5-1 38H2 N3 RS 织 64% 动态范围 58 余辉  低 HRes 2.1 4.2 距离 1.41 cm 距离 1.11 cm IOcm-"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246225.1620649046.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11246225.1620649046.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10.56:07 081 胎儿 A TIB0.1 MI 1.0 C5-1 35H2 N3 RS 2 69% 动态范围 B0 余辉  低 HGen 烃 距离 1.22 cm 00 距离  0.986 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11281017.3758916339.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11281017.3758916339.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/01/31 10:34:14 早孕 TIS0.1 MI 1.0 C5-1 35H2 N3 RS 2 57% 动态范围 58 余辉  低 HRes 00 距离  0.571 cm 长  长"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11359182.2637618284.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11359182.2637618284.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/03/09 16.12:46 早孕 TIS0.1 MI 1.0 C5-1 38H2 N3 RS 2 58% 动态范围 58 余辉  低 HRes 8 距离 2.38 cm 距离 1.58 cm 10"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11365066.340821571.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11365066.340821571.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/03112 11:53:15 早孕 TIS0.1 MI 1.0 C5-1 30Hz N3 RS 2 67% 动态范围 58 余辉  低 HRes X2 凸 ; 10 距离  0.720 cm 距离  0.588 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11430790.3455890602.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11430790.3455890602.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/04/13 15.00:45 早孕 TIS0.1 MI 1.0 C5-1 40HZ 州3 RS 7 % 动态范围 58 余辉  低 HRes 火 X2 距离 1.35 cm 卜 距离 1.10cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11448874.867667948.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11448874.867667948.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(孕龄)"
+    ],
+    "sample_text": "IYP 45570820200422 Quanzhou NO.1 Hospital EPIQ5 2020/04/22 09.14:53 0B TIB0.1 MI 1.0 孕龄 24NOd C51 35H2 州 RS ? % 动态范围 B0 条黛 # 1.7 3 距离 1.84 cm 距离 1.10 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11449008.837337387.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11449008.837337387.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "04122/2020 11:27.35 早孕 TIS0.1 MI 1.0 C5-1 38H2 N3 RS 2 66% 动态范围 58 余辉  低 HRes 《 2.1 4.2 距离 2.43 cm 距离 1.67 cm IOcm-"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11487744.3811855431.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11487744.3811855431.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/05/11 08.34:43 早孕 TIS0.1 MI 1.0 C5-1 30Hz N3 RS 2 57% 动态范围 58 余辉  低 HRes 10 距离 1.07 cm 距离 1.25 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11496391.3057227221.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11496391.3057227221.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "LGE 33081620200515 Quanzhou NO.1 Hospital EPIQ7 2020/05/15 16.09:53 早孕 TIS0.1 MI 1.0 C5-1 38H2 州3 RS 2 52% 动态范围 58 余辉  低 HRes X2 中 8 x 距离 1.31 cm 距离 1.03 cm 00"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11568176.3809844218.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11568176.3809844218.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital Affiniti 50 2020/06/19 17.51:25 早孕 TIS0.1 川 1.1 C6-2 45H2 州 RS ? 63% 动态范围 58 余辉  低 HRes 距离 3.21 cm 距离 2.77 cm I2cm:"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11588530.2415068743.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11588530.2415068743.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(孕龄)"
+    ],
+    "sample_text": "CKT 00361520200629 Quanzhou NO.1 Hospital EPIQ5 2020/06/29 15.49:43 0B TIB0.1 MI 1.0 C5-1 孕龄 39414 33H2 N3 RS ? 16 60% 动态范围 G0 146 余烽  低 155 HGen 曙 $4 1.7 3 距离 "
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11592326.4189483387.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11592326.4189483387.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "临时 I0-20200701095544 44550920200701 Quanzhou NO.1 Hospital EPIQ7 2020/07/01 10.48:47 早孕 TIS0.1 MI 1.0 C5-1 43H2 州3 RS 鹗 % 动态范围 58 余辉  低 HRes 距离 1.87 cm 距离 1.15 "
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11604721.966998201.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11604721.966998201.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "K 48431020200707 07/07/2020 12:19:12 早孕 TIS0.1 MI 1.0 C5-1 38H2 N3 RS 2 67% 动态范围 58 余辉  低 HRes @ 2.1 4.2 距离 4.82cm 距离 4.16 cm IOcm-"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11616757.3652073931.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11616757.3652073931.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ5 2020/07/13 08:27:30 早孕 TIS0.1 MI 1.0 C5-1 40HZ N3 RS 2 2 5% 135 动态范围 58 余烽  低 # HRes 19 1 @ 2.1 4.2 距离 2.75 cm 距离 2.11 cm T"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11645530.3892900135.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11645530.3892900135.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(24w4d)",
+      "ObstetricChinese(孕龄)"
+    ],
+    "sample_text": "ZQL 28570820200727 Quanzhou NO.1 Hospital EPIQ5 2020/07/27 10:04:13 0B TIB0.1 MI 1.0 孕龄 24w4d C5-1 37H2 N3 RS 7 % 1 动态范围 G0 143 余烽  低 150 HGen 55 N 1.7  3.4 距离 "
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11645992.264234233.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11645992.264234233.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ5 2020/07/27 17.45:14 早孕 TIS0.1 MI 1.0 C5-1 33H2 N3 RS 鹗 % 2 动态范围 58 43 余烽  低 49 HRes 54 F9 鼠 @ 2.1 4.2 距离 1.08 cm 距离  0.982cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11698679.2162228282.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11698679.2162228282.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "早孕 TIS0.1 MI 1.0 C5-1 25Hz M3 RS 72% 动态范围 58 余辉  低 HRes 10 155 距离 3.40cm 距离 3.36 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11731862.632629819.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11731862.632629819.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(孕龄)"
+    ],
+    "sample_text": "OB TIB0.1 MI 1.0 C5-1 孕龄 25414 37H2 M3 RS 2 22 59% 动态范围 G0 余烽  低 HGen 小 !  1.7  3.4 距离 1.02 cm 距离  0.765 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11989545.1616807298.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.11989545.1616807298.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(24W1d)",
+      "ObstetricChinese(孕龄)"
+    ],
+    "sample_text": "OB TIB0.1 MI 1.0 C5-1 孕龄 24W1d 35H2 M3 RS 2 122 59% 136 动态范围 G0 余烽  低 HGen  企 1.7  3.4 距离 1.59 cm 距离 1.13 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12038628.3862258653.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12038628.3862258653.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "54430720210204 Quanzhou N0.1 EPIQ7 2021/02/04 08:04:42 早孕 TIS0.1 MI 1.0 C5-1 30Hz N RS ? 66% 动态范围 58 余辉  低 HRes [ 距离  0.942cm 下 距离  0.861 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12061260.765385286.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12061260.765385286.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "02115/2021 09:47:51 早孕 TIS0.1 MI 1.0 C5-1 38H2 M3 RS 2 64% 动态范围 58 余辉  低 HRes 2.1 4.2 距离 3.35 cm 距离 2.69 cm IOcm-"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12067331.1304130296.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12067331.1304130296.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "35530720210218 Quanzhou N0.1 EPIQ7 2021/02/18 08:34:16 早孕 TIS0.1 MI 1.0 C5-1 35H2 N RS 2 62% 动态范围 58 余辉  低 HRes 距离 4.52cm 00 距离 3.41 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12075528.1880385571.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12075528.1880385571.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(24W4d)",
+      "ObstetricChinese(孕龄)"
+    ],
+    "sample_text": "OB TIB0.1 MI 1.0 C5-1 孕龄 24W4d 37H2 M3 RS 2 67% } 动态范围 G0 余烽  低 HGen 鼎 1.7  3.4 距离 2.28 cm 距离 1.19 cm 们"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12090285.15583038.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12090285.15583038.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(孕龄)"
+    ],
+    "sample_text": "OB TIS0.1 MI 0.7 孕龄 23w24 V6-2 31H2 M3 RS 2 20 54% 135 动态范围  50 46 余烽  低 11 HRes 鹃 鹃 2.4 4.8 距离 3.34 cm 距离 2.10cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12104276.3947515227.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12104276.3947515227.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(孕龄)"
+    ],
+    "sample_text": "OB TIB0.1 MI 1.0 孕龄 32WOd C5-1 33H2 M3 RS 2 P6 67% 42 动态范围 G0 余烽  低 HGen 盘 企 1.7  3.4 X2 距离 1.49 cm 距离  0.901cm : 丫 +"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12104288.3564012668.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12104288.3564012668.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(孕龄)"
+    ],
+    "sample_text": "OB TIB0.1 MI 1.0 孕龄 32WOd C5-1 35H2 M3 RS 2 69% 动态范围 G0 余烽  低 HGen # 1.7  3.4 距离 1.93 cm 距离  0.861 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12104333.1578605321.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12104333.1578605321.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(31W4d)",
+      "ObstetricChinese(孕龄)"
+    ],
+    "sample_text": "OB TIB0.1 MI 1.0 C5-1 孕龄 31W4d 33H2 M3 RS 2 64% 动态范围 G0 余烽  低 HGen  企 1.7  3.4 距离 2.24 cm 距离 1.35 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12104613.2267339827.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12104613.2267339827.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(孕龄)"
+    ],
+    "sample_text": "OB TI80.2 MI 1.0 C5-1 孕龄 32414 4OHZ M3 RS 2 49% 绍 动态范围 G0 39 余烽  低 h HGen 154 18 R 1.7 3.4 距离 1.36 cm 距离  0.708 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12106353.2452956429.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12106353.2452956429.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "41510720210309 Quanzhou N0.1 EPIQ7 2021/03/09 10:18:30 早孕 TIS0.1 MI 1.0 C5-1 38H2 N RS ? 60% 动态范围 58 余辉  低 HRes 距离 2.03 cm 距离 1.56 cm 10"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12158047.1330263880.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12158047.1330263880.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou No.1 Hospital Affiniti 70 2021/04/03 18:37:00 早孕 TIS0.1 MI 1.0 C51 50HZ M3 RS ? 35% 动态范围 58 余辉  低 HRes 距离 1.25 cm 距离  0.811 cm 10"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12184551.1171428005.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12184551.1171428005.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "28161520210416 04/16/2021 16:38.29 早孕 TIS0.1 MI 1.0 C5-1 30Hz M3 RS 2 69% 动态范围 58 余辉  低 HRes @ 2.1 4.2 距离 3.31 cm 距离 2.77 cm I4cm:"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12208632.1240601737.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12208632.1240601737.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "04090820210428 Quanzhou N0.1 EPIQ7 2021/04/28 08.22.24 早孕 TIS0.1 MI 1.0 C5-1 33H2 N RS 2 69% 动态范围 58 余辉  低 HRes 10 距离 4.24 cm 距离 3.20cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12208634.2644317637.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12208634.2644317637.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "04090820210428 Quanzhou N0.1 EPIQ7 2021/04/28 08:24:26 早孕 TIS0.2 MI 1.0 C5-1 38H2 N RS 2 52% 动态范围 58 余辉  低 HRes X2 距离 1.01 cm 距离  0.699 cm 10"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12227078.2865993830.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12227078.2865993830.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "21250820210507 Quanzhou N0.1 EPIQ7 2021/05/07 08:36:24 早孕 TIS0.1 MI 1.0 C5-1 30Hz N RS 2 67% 动态范围 58 余辉  低 HRes 10 距离 3.44 cm 距离 2.88 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12286544.1134317349.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12286544.1134317349.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "IXH 32460920210605 Quanzhou N0.1 EPIQ7 2021/06/05 09:49:25 早孕 TIS0.1 MI 1.0 C5-1 33H2 N RS 2 57% 动态范围 58 余辉  低 HRes 『 兴 K 10 距离 1.05 cm 距离 1.64 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12362325.2666609108.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12362325.2666609108.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "早孕 TIS0.1 MI 1.0 C5-1 43H2 M3 RS 2 49% 8 动态范围  58 40 余烽  低 器 HRes 157 62 R @ 2.1 4.2 距离 1.79 cm 距离 1.41 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.12362328.2176728418.jpg",
+    "folder": "train/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\UF\\1.2.826.0.1.3680043.2.461.12362328.2176728418.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "早孕 TIS0.1 MI 1.0 C5-1 33H2 M3 RS 鹗 % 28 动态范围  58 44 余烽  低 151 HRes H @ 2.1 4.2 距离 3.54 cm 距离 2.10cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11229758.208563029.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11229758.208563029.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24w)",
+      "ObstetricChinese(顶臀长)"
+    ],
+    "sample_text": "ZXI 39280920200106 Quanzhou NO.1 Hospital EPIQ7 2020/01/06 09:33.28 081 TIB0.1 MI 1.0 C5-1 33H2 N3 RS ? % 动态范围 B0 余辉  低 HGen 00 小脑 2.49 cm GA 24w2d -0.75 SD 顶臀长"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11229758.3256349608.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11229758.3256349608.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(双顶径)",
+      "ObstetricChinese(头围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "ZXI 39280920200106 Quanzhou NO.1 Hospital EPIQ7 2020/01/06 09:33:16 081 TIB0.1 MI 1.0 C5-1 33H2 N3 RS ? % 动态范围 G0 余辉  低 HGen 双顶径 5.98 cm GA 24w3d 0.35 SD 00 :头围"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11229792.1491186509.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11229792.1491186509.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(股骨长)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "ZXI 39280920200106 Quanzhou NO.1 Hospital EPIQ7 2020/01/06 10:09:10 081 TIB0.1 MI 1.0 C5-1 骝2 1.0 股骨长 4.28 cm GA 24wOd -0.20 SD EFW( 计算) 6499 超声平均孕龄 24wId"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11229792.1906047868.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11229792.1906047868.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 23W)"
+    ],
+    "sample_text": "ZXI 39280920200106 Quanzhou NO.1 Hospital EPIQ7 2020/01/06 10:08:29 081 TIB0.1 MI 1.0 C5-1 骝2 1.0 40 肱骨 3.80cm GA 23W3d -0.56 SD"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11229793.2481103620.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11229793.2481103620.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "ZXI 39280920200106 Quanzhou NO.1 Hospital EPIQ7 2020/01/06 10.10:07 081 TIB0.1 MI 1.0 C51 t2 1.0 00 右下象限  3.22cm 右上象限 3.46 cm 左下象限 羊水指数  6.68 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11229794.860311343.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11229794.860311343.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "ZXI 39280920200106 Quanzhou NO.1 Hospital EPIQ7 2020/01/06 10:10:20 081 TIB0.1 MI 1.0 C5-1 鹦2 1.0 00 ?左下象限 3.83 cm 左上象限 2.85 cm 羊水指数  13.36cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11233779.633788651.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11233779.633788651.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(1811px)"
+    ],
+    "sample_text": "01/08/2020 08:18:54 腹部常韫 TIS0.7 M 1.1 C5-1 1OHz M3 M4 +18.5 骂% 动态范围 55 余辉 中 HGen 彩鱼血谥 50% 1320H2 WF 65HZ -18.5 2.8MHZ cmls 1.6 3.2 IGcm一"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11233898.1729184870.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11233898.1729184870.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 27W)"
+    ],
+    "sample_text": "JSN 56141020200108 Quanzhou NO.1 Hospital EPIQ7 2020/01/08 10:17:31 081 TIB0.1 MI 1.0 C5-1 30Hz 州3 RS 7% 动态范围 B0 余辉  低 HGen ?小脑 2.85 cm GA 27WOd 1.05 SD"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11233898.2115480524.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11233898.2115480524.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 27w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(双顶径)",
+      "ObstetricChinese(头围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "JSN 56141020200108 Quanzhou NO.1 Hospital EPIQ7 2020/01/08 10:17.18 081 TIB0.1 MI 1.0 C5-1 30Hz N3 RS 7% 动态范围 G0 余辉  低 HGen 10 双顶径 6.76 cm GA 27w2d 2.23 SD :头围 "
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11233913.1714206640.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11233913.1714206640.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(股骨长)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "JSN 56141020200108 Quanzhou NO.1 Hospital EPIQ7 2020/01/08 10:32:55 081 TIB0.1 MI 1.0 C5-1 骝2 1.0 股骨长 4.37 cm GA 24w3d -0.53 SD EFW( 计算) 7979 超声平均孕龄 2SwGd"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11233916.1191200375.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11233916.1191200375.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "JSN 56141020200108 Quanzhou NO.1 Hospital EPIQ7 2020/01/08 10:35.33 081 TIB0.1 MI 1.0 C5-1 酆2 1.0 右下象限  2.82cm 右上象限  3.79 cm 左下象限 羊水指数 6.61 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11233916.4125707998.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11233916.4125707998.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "JSN 56141020200108 Quanzhou NO.1 Hospital EPIQ7 2020/01/08 10:35.47 081 TIB0.1 MI 1.0 C51 骝2 1.0 10 左下象限 3.79 cm 左上象限 4.27 cm 羊水指数  14.67 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11238270.1140262664.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11238270.1140262664.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "43331420200110 Quanzhou No.1 Hospital  Affiniti 70 2020/01/10 14:54:26 产科胎儿心脏 TIB0.2 MI 1.0 C5-1 105Hz M4 RS 2 69% 动态范围  50 余辉  低 HGen"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11238270.2183945273.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11238270.2183945273.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "43331420200110 Quanzhou No.1 Hospital Affiniti 70 2020/01/10 14:53:50 产科胎儿心脏 TI80.2 MI 1.0 C5-1 80Hz M4 RS 7% 动态范围  50 余辉  低 HGen 10"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11238270.712706979.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11238270.712706979.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "43331420200110 Quanzhou No.1 Hospital  Affiniti 70 2020/01/10 14:54:27 产科胎儿心脏 TIB0.2 MI 1.0 C5-1 105Hz M4 RS 2 69% 动态范围  50 余辉  低 HGen"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246170.4038934223.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246170.4038934223.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(双顶径)",
+      "ObstetricChinese(头围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:01.44 081 胎兀 TIB0.1 MI 1.0 C5-1 33H2 N3 RS 72% 动态范围 G0 余辉  低 HGen ] 抬儿8 双顶径 5.93 cm GA 24w2d -0.25"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246172.2343377989.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246172.2343377989.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 25W)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:03:55 081 P兀 D TIB0.1 MI 1.0 C5-1 33H2 州3 RS ?% 动态范围 B0 余辉  低 HGen 10 抬儿8 ?小脑 2.64 cm GA 25W3d -0."
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246180.3811164224.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246180.3811164224.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(腹围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:11;00 081 胎兀 TIB0.1 MI 1.0 C5-1 33H2 州3 RS 72% 动态范围 B0 余辉  低 HGen 抬儿8 00 ?腹围 19.73 cm GA 24w3d -0."
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246183.2111652796.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246183.2111652796.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(股骨长)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:14:35 081 P兀 D TIB0.1 MI 1.0 C5-1 酆2 1.0 抬儿B 股骨长 4.27 cm GA 24wOd 40.61 SD EFW (计算) 6679 超声平均孕龄 24"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246184.3357370420.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246184.3357370420.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 23w)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:15.43 081 胎兀 D TIB0.1 MI 1.0 C51 酆2 1.0 40 抬儿B 肱骨 3.90 cm GA 23wGd -0.52 SD"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246188.2817640688.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246188.2817640688.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:19:45 081 胎儿 A TIB0.1 MI 1.0 C5-1 27H2 州3 RS 2 64% 动态范围 B0 余辉  低 HGen 00 15"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246188.3545436464.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246188.3545436464.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:19:33 081 胎儿 A TIB0.1 MI 1.0 C5-1 27H2 州3 RS 72% 动态范围 B0 余辉  低 HGen 00 15"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246216.199630794.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246216.199630794.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:47:40 081 胎儿 A TIB0.1 MI 1.0 C5-1 35H2 州3 RS 2 67% 动态范围 B0 余辉  低 HGen 00"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246217.331344004.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246217.331344004.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:48:05 081 胎儿 A TIB0.1 MI 1.0 C5-1 37H2 N3 RS 骂% 动态范围 B0 余辉  低 HGen"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246218.1319732695.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246218.1319732695.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:49:51 081 胎儿 A TIB0.1 MI 1.0 C5-1 37H2 州3 RS ?% 动态范围 B0 余辉  低 HGen 10"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246218.538196933.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246218.538196933.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:49:40 081 胎儿 A TIB0.1 MI 1.0 C5-1 37H2 州3 RS ?% 动态范围 B0 余辉  低 HGen 10"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246219.170784486.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246219.170784486.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24W)",
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:50:28 081 胎儿 A TIB0.1 MI 1.0 C5-1 37H2 N3 RS ?% 动态范围 B0 余辉  低 HGen 抬儿 A ?小脑 2.46 cm GA 24WOd -1.46"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246219.2568511109.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246219.2568511109.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(双顶径)",
+      "ObstetricChinese(头围)",
+      "ObstetricChinese(胎儿)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10.50:11 081 胎儿 A TIB0.1 MI 1.0 C5-1 37H2 N3 RS ?% 动态范围 G0 余辉  低 HGen 抬儿 A 双顶径 5.96 cm GA 24w3d -0.15"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246220.3883942383.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246220.3883942383.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:51:52 081 胎儿 A TIB0.1 MI 1.0 C5-1 33H2 州3 RS 2 64% 动态范围 B0 余辉  低 HGen X2 00"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246221.1376024325.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246221.1376024325.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:52:03 081 胎儿 A TIB0.1 MI 1.0 C5-1 33H2 州3 RS 2 64% 动态范围 B0 余辉  低 HGen X2 10"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246221.2586034039.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246221.2586034039.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:52:23 081 胎儿 A TIB0.1 MI 1.0 C5-1 33H2 州3 RS 2 64% 动态范围 B0 余辉  低 HGen X2 10"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246221.3875315332.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246221.3875315332.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:52:55 081 胎儿 A TIB0.1 MI 1.0 C5-1 33H2 N3 RS 2 64% 动态范围 B0 余辉  低 HGen X2 10"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246221.834685867.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246221.834685867.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:52:30 081 胎儿 A TIB0.1 MI 1.0 C5-1 33H2 N3 RS 织 64% 动态范围 B0 余辉  低 HGen X2 00"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246222.56244652.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246222.56244652.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:53:21 081 胎儿 A TIB0.1 MI 1.0 C5-1 27H2 N3 RS 7 % 动态范围 B0 余辉  低 HGen 00 15"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246223.2145276675.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246223.2145276675.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:54:39 081 胎儿 A TIB0.1 MI 1.0 C5-1 35H2 州3 RS 2 69% 动态范围 B0 余辉  低 HGen X2 5 00"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246223.660303639.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246223.660303639.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:54:46 081 胎儿 A TIB0.1 MI 1.0 C5-1 35H2 州3 RS 2 69% 动态范围 B0 余辉  低 HGen X2  5 00 2"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246224.1844106805.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246224.1844106805.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:55.24 081 胎儿 A TIB0.1 MI 1.0 C5-1 35H2 州3 RS 2 69% 动态范围 B0 余辉  低 HGen X2 00"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246224.2280480468.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246224.2280480468.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 25w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(腹围)",
+      "ObstetricChinese(胎儿)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:55.20 081 胎儿 A TIB0.1 MI 1.0 C5-1 35H2 州3 RS 2 69% 动态范围 B0 余辉  低 HGen X2 抬儿 A 腹围 20.88 Cm GA 25w4d"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246224.3368525008.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246224.3368525008.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:55.30 081 胎儿 A TIB0.1 MI 1.0 C5-1 35H2 州3 RS 2 69% 动态范围 B0 余辉  低 HGen X2  5 00"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246224.4209560415.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246224.4209560415.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:55.38 081 胎儿 A TIB0.1 MI 1.0 C5-1 35H2 州3 RS 2 69% 动态范围 B0 余辉  低 HGen X2 00"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246225.1049736851.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246225.1049736851.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10.56:48 081 胎儿 A TIB0.1 MI 1.0 35H2 磐 1.0 10 C5-1"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246225.1424403603.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246225.1424403603.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10.56;38 081 胎儿 A TIB0.1 MI 1.0 35H2 磐 1.0 00 C5-1"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246225.552818909.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246225.552818909.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 23w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(股骨长)",
+      "ObstetricChinese(胎儿)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:56.27 081 胎儿 A TIB0.1 MI 1.0 35H2 磐 1.0 抬儿 A 股骨长 3.99 cm GA 23wOd -1.55 SD EFW (计算) 6759 超声平均孕龄 24"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246226.2284650157.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246226.2284650157.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 23w)",
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:57.38 081 胎儿 A TIB0.1 MI 1.0 35H2 磐 1.0 抬儿 A 肱骨 3.81 cm GA 23w4d -0.8150 C5-1"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246226.2979701766.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246226.2979701766.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:57.55 081 胎儿 A TIB0.1 MI 1.0 35H2 磐 1.0 10 C5-1"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246226.3899773769.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246226.3899773769.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 23w)",
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10:57.36 081 胎儿 A TIB0.1 MI 1.0 35H2 磐 1.0 抬儿 A 肱骨 3.81 cm GA 23w4d -0.8150 C5-1"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246227.1667010405.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246227.1667010405.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10.58:08 081 胎儿 A TIB0.1 MI 1.0 35H2 磐 1.0 10 C5-1"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246227.2180867894.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246227.2180867894.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10.58:33 081 胎儿 A TIB0.1 MI 1.0 C5-1 27H2 州3 RS 7% 动态范围 B0 余辉  低 HGen 00 距离 6.71 cm 15"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246227.4161536621.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246227.4161536621.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 10.58:23 081 胎儿 A TIB0.1 MI 1.0 C5-1 27H2 州3 RS 7% 动态范围 B0 余辉  低 HGen 00 距离 2.50 cm 155"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246230.3043924027.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246230.3043924027.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 11:01;03 FetalEcho 胎儿 A TIB0.3 MI 1.0 C5-1 98H2 M2 RS 2 53% 动态范围47 余辉  低 HGen"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246230.3526963810.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246230.3526963810.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 11:01:35 FetalEcho 胎儿 A TIB0.3 MI 1.0 C5-1 98H2 M2 RS 2 53% 动态范围47 余辉  低 HGen"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246230.3991954085.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246230.3991954085.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 11:01:50 FetalEcho 胎儿 A TIB0.3 MI 1.0 C5-1 98H2 M2 RS 2 53% 动态范围47 余辉  低 HGen"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246230.729882476.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246230.729882476.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 11:01;01 FetalEcho 胎儿 A TIB0.3 MI 1.0 C5-1 98H2 M2 RS 2 53% 动态范围47 余辉  低 HGen"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11246231.2843543327.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11246231.2843543327.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "TXL 18550920200114 Quanzhou NO.1 Hospital EPIQ7 2020/01/14 11:02.20 FetalEcho 胎儿 A TIB0.3 MI 1.0 C5-1 98H2 M2 RS 2 53% 动态范围47 余辉  低 HGen"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11250284.3294028545.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11250284.3294028545.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(28w4d)"
+    ],
+    "sample_text": "21111135 2020/01/16 10:22:13 TIB0.3 MI 1.2 Quanzhou NO.1 Hospital C5-1/08 Gen FR 312 M3 RS 3 60% C 58 P Low HGen 10 BPD 7.08 cm 28w4d HC 28.86 cm 31wGd"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11250289.1026308057.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11250289.1026308057.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(31w4d)"
+    ],
+    "sample_text": "21111135 2020/01/16 10:27:25 TIB0.3 MI 1.2 Quanzhou NO.1 Hospital C5-1/08 Gen FR 28Hz M3 RS 3 59% C 58 P Low HGen 10 15 AC 27.47 cm 31w4d"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11250294.1269515805.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11250294.1269515805.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "DopplerParam(23.1 cmls)"
+    ],
+    "sample_text": "21111135 2020/01/16 10:32:06 TIB0.4 MI 1.2 Quanzhou NO.1 Hospital C5-1/08 Gen FR 8Hz M3M3 RP +23 ? 62% C 56 P Low HGen CE 60% 2100HZ WF 105H2 Med 23.1 cmls"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11250342.3124974056.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11250342.3124974056.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "DopplerParam(46.2 cmls)"
+    ],
+    "sample_text": "21111135 2020/01/16 11:19:12 TIB0.3 MI 1.2 Quanzhou NO.1 Hospital C5-1/08 Echo FR 8Hz M3M3 RP +46.2 ? 62% C 56 P Low HGen CE 55% 3300H2 WF 164Hz Med -46.2 cmls "
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11250342.3691381335.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11250342.3691381335.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "DopplerParam(46.2 cmls)"
+    ],
+    "sample_text": "21111135 2020/01/16 11:18:45 TIB0.8 MI 1.2 Quanzhou NO.1 Hospital C5-1/08 Echo FR 9Hz M3M3 RP +46.2 3 64% C 56 P Low HGen CE 55% 3000Hz WF 150Hz Med -46.2 cmls "
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11250343.1351452771.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11250343.1351452771.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "DopplerParam(46.2 cmls)"
+    ],
+    "sample_text": "21111135 2020/01/16 11:20:11 TIBO.6 MI 1.2 Quanzhou NO.1 Hospital C5-1/08 Echo FR 17H2 M3M3 RP +46.2 ? 61% C 56 P Low HGen CE 55% 3300H2 WF 164Hz Med 46.2 cmls"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11250348.2250605654.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11250348.2250605654.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "DopplerParam(23.1 cmls)"
+    ],
+    "sample_text": "21111135 2020/01/16 11:24:22 TIB0.3 MI 1.2 Quanzhou NO.1 Hospital C5-1/08 Gen FR 7Hz M3M3 RP +23 3 60% C 56 P Low HGen CE 57% 1950H2 WF 107H2 Med -23.1 cmls 10"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11250374.2414277285.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11250374.2414277285.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 33w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(双顶径)",
+      "ObstetricChinese(头围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "PAZ 10501120200116 Quanzhou NO.1 Hospital EPIQ7 2020/01/16 11:51:10 081 TIB0.1 MI 1.0 C5-1 30Hz N3 RS 7% 动态范围 G0 余辉  低 HGen 10 双顶径 8.30cm GA 33w3d -0.15 SD :头围 "
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11250376.2673069791.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11250376.2673069791.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 33w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(股骨长)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "PAZ 10501120200116 Quanzhou NO.1 Hospital EPIQ7 2020/01/16 11:52:26 081 TIB0.1 MI 1.0 C5-1 30Hz 州3 RS 7% 动态范围 B0 余辉  低 HGen 10 股骨长 6.40 cm GA 33w1d -0.55 SD 超声平"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11250376.2790751870.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11250376.2790751870.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 33w)"
+    ],
+    "sample_text": "PAZ 10501120200116 Quanzhou NO.1 Hospital EPIQ7 2020/01/16 11.52:50 081 TIB0.1 MI 1.0 C5-1 30Hz 州3 RS 7% 动态范围 B0 余辉  低 HGen 肱骨 5.68 cm GA 33w1d -0.02SD"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11250377.3034639652.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11250377.3034639652.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "PAZ 10501120200116 Quanzhou NO.1 Hospital EPIQ7 2020/01/16 11:53:57 081 TIB0.1 MI 1.0 C51 23H2 劈 1.0 10 右下象限  3.86 cm 右上象限  2.38 cm 左下象限 羊水指数  6.24 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11250378.1857624342.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11250378.1857624342.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "PAZ 10501120200116 Quanzhou NO.1 Hospital EPIQ7 2020/01/16 11:54:15 081 TIB0.1 MI 1.0 C51 23H2 劈 1.0 10 左下象限 4.44 cm 左上象限 2.01 cm 羊水指数  12.69 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11250378.3451789508.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11250378.3451789508.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 34W)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(腹围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "PAZ 10501120200116 Quanzhou NO.1 Hospital EPIQ7 2020/01/16 11:54:57 081 TIB0.1 MI 1.0 C5-1 27H2 N3 RS 2 82% 动态范围 G0 余辉  低 HGen 00 腹围 30.55 cm GA 34W4d 0.89 SD E"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11264691.2402775821.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11264691.2402775821.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/01/23 11:29:57 早孕 TIS0.1 MI 1.0 C5-1 40HZ 州3 RS 2 56% 动态范围 58 余辉  低 HRes 2"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11281017.1790200623.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11281017.1790200623.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/01/31 10:33:55 早孕 TIS0.1 MI 1.0 C5-1 33H2 州3 RS 2 58% 动态范围 58 余辉  低 HRes 10 距离 6.96 cm 距离 5.38 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11281018.1106600374.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11281018.1106600374.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/01/31 10:34:43 早孕 TIS0.1 MI 1.0 C5-1 35H2 州3 RS 乙1.2 2 56% 动态范围 58 余辉  低 HRes 距离 1.18 cm 距离  0.564 cm 10 次 七"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11281018.1900824820.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11281018.1900824820.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/01/31 10:34:50 早孕 TIS0.1 MI 1.0 C5-1 35H2 州3 RS 乙1.2 2 56% 动态范围 58 余辉  低 HRes 距离 1.33cm 10"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11281019.1298710905.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11281019.1298710905.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/01/31 10:35.34 早孕 TIS0.3 MI 1.0 C5-1 72H2 州3 RS 2 56% 动态范围 58 余辉  低 HRes"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11281019.3759787246.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11281019.3759787246.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/01/31 10:36:12 早孕 TIS0.2 MI 1.0 C5-1 35H2 州3 RS 2 64% 动态范围 58 余辉  低 HRes 00"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11281019.3817202178.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11281019.3817202178.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/01/31 10:35.57 早孕 TIS0.2 MI 1.0 C5-1 35H2 N3 RS 2 60% 动态范围 58 余辉  低 HRes 距离 5.14 cm 00 距离 4.36 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11281019.4210822844.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11281019.4210822844.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/01/31 10:35.30 早孕 TIS0.3 MI 1.0 C5-1 72H2 州3 RS 2 56% 动态范围 58 余辉  低 HRes"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11281298.3213879494.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11281298.3213879494.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(13965px)"
+    ],
+    "sample_text": "GWN 28131520200131 Quanzhou NO.1 Hospital EPIQ7 2020/01/31 15.13:45 081 TIB0.2 MI 1.0 C5-1 BHz M3 M3 +38.5 2 80% 动态范围 B0 余辉  低 HGen 」鱼血谥 58% 2750H2 WF 123H2 -38"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11281299.2489973544.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11281299.2489973544.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 17W)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(双顶径)",
+      "ObstetricChinese(头围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "GWN 28131520200131 Quanzhou NO.1 Hospital EPIQ7 2020/01/31 15.14:12 081 TIB0.1 MI 1.0 C5-1 37H2 N3 RS ?% 动态范围 B0 余辉  低 HGen T 双顶径 3.67 cm GA 17W2d 0.61 SD :头围 1"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11281300.2186894926.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11281300.2186894926.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 18w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(腹围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "GWN 28131520200131 Quanzhou NO.1 Hospital EPIQ7 2020/01/31 15.15:05 081 TIB0.1 MI 1.0 C5-1 33H2 N3 RS 7% 动态范围 B0 余辉  低 HGen 10 腹围 12.93 cm GA 18w4d 1.57 SD 超声平均"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11281300.3646741941.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11281300.3646741941.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 17w)"
+    ],
+    "sample_text": "GWN 28131520200131 Quanzhou NO.1 Hospital EPIQ7 2020/01/31 15.15.36 081 TIB0.1 MI 1.0 C5-1 33H2 州3 RS ? % 动态范围 B0 余辉  低 HGen 00 肱骨 2.44 cm GA 17w5d 0.98 SD"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11281300.920721055.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11281300.920721055.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(17W3d)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(股骨长)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "GWN 28131520200131 Quanzhou NO.1 Hospital EPIQ7 2020/01/31 15.15.22 081 TIB0.1 MI 1.0 C5-1 33H2 N3 RS ? % 动态范围 B0 余辉  低 HGen 股骨长 2.24 cm 00 GA 1GWSd 40.13 SD EF"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11287177.470864999.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11287177.470864999.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(4042px)"
+    ],
+    "sample_text": "02/03/2020 10:49:56 腹部常韫 TIS0.7 MI 1.2 C5-1 13Hz M3 M4 +18.5 7% 动态范围 55 余辉 中 HGen 彩鱼血谥 50% 1440H2 WF 72H2 -18.5 3.0MHZ cmls 1.6 3.2 I2cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11301508.3408599058.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11301508.3408599058.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 25w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(双顶径)",
+      "ObstetricChinese(头围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "LQZ 39401020200210 Quanzhou NO.1 Hospital EPIQ7 2020/02/10 10:43.29 081 TIB0.1 MI 1.0 C5-1 30Hz N3 RS ? % 动态范围 G0 余辉  低 HGen 10 双顶径 6.21 cm GA 25w2d 0.82S0 :头围 "
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11301519.2516072742.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11301519.2516072742.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(腹围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "LQZ 39401020200210 Quanzhou NO.1 Hospital EPIQ7 2020/02/10 10:54:26 081 TIB0.1 MI 1.0 C5-1 35H2 州3 RS 2 67% 动态范围 B0 余辉  低 HGen 腹围 19.85 cm GA 24w4d 0.07 SD 10 超"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11301524.694936685.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11301524.694936685.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(股骨长)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "LQZ 39401020200210 Quanzhou NO.1 Hospital EPIQ7 2020/02/10 10.59:06 081 TIB0.1 MI 1.0 C5-1 t 1.0 股骨长 4.35 cm GA 24w2d -0.22 SD EFW( 计算) 7079 超声平均孕龄 2SWOd"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11301525.2072747749.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11301525.2072747749.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24w)"
+    ],
+    "sample_text": "LQZ 39401020200210 Quanzhou NO.1 Hospital EPIQ7 2020/02/10 11:00:08 081 TIB0.1 MI 1.0 C51 酆2 1.0 40 肱骨 3.95 cm GA 24wId -0.26 SD"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11301526.1389575270.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11301526.1389575270.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "LQZ 39401020200210 Quanzhou NO.1 Hospital EPIQ7 2020/02/10 11:01:29 081 TIB0.1 MI 1.0 C51 鹦2 1.0 10 左下象限 2.41 cm 左上象限 3.59 cm 羊水指数  13.14 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11301526.954730720.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11301526.954730720.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "LQZ 39401020200210 Quanzhou NO.1 Hospital EPIQ7 2020/02/10 11:01;09 081 TIB0.1 MI 1.0 C51 y2 乙1.0 10 右下象限  2.78 cm 右上象限  4.36 cm 左下象限 羊水指数  7.14 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11319802.1722689645.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11319802.1722689645.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24W)"
+    ],
+    "sample_text": "ZLH 00220820200219 Quanzhou NO.1 Hospital EPIQ7 2020/02/19 08:26;23 081 TIB0.2 M10.9 C5-1 33H2 N3 RS ?% 动态范围 B0 余辉  低 HGen 10 ?小脑 2.45 cm GA 24WOd -1.21 SD"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11319803.879884850.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11319803.879884850.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(腹围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "ZLH 00220820200219 Quanzhou NO.1 Hospital EPIQ7 2020/02/19 08:27.33 081 TIB0.1 MI 1.0 C5-1 33H2 N3 RS 2 67% 动态范围 G0 余辉  低 HGen 10 腹围 20.13 cm GA 24wGd 0.40SD 超声"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11319804.3068574352.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11319804.3068574352.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24W)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(股骨长)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "ZLH 00220820200219 Quanzhou NO.1 Hospital EPIQ7 2020/02/19 08:29:14 081 TIB0.1 MI 1.0 C51 23H2 劈 1.0 40 股骨长 4.42cm GA 24W4d 0.13 SD EFW( 计算) 7139 超声平均孕龄 24w3d"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11319807.1267396873.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11319807.1267396873.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "ZLH 00220820200219 Quanzhou NO.1 Hospital EPIQ7 2020/02/19 08:31:52 081 TIB0.1 MI 1.0 C51 2BHZ RS 乙1.0 00 15 右下象限  4.22cm 右上象限  5.04 cm 左下象限 羊水指数  9.26 cm 20"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11319807.3615203707.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11319807.3615203707.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "ZLH 00220820200219 Quanzhou NO.1 Hospital EPIQ7 2020/02/19 08.32:07 081 TIB0.1 MI 1.0 C51 2BHz 劈 1.0 40 15 :左下象限 3.76 cm 左上象限 4.92cm 羊水指数  17.94 cm 20"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11348575.2477375684.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11348575.2477375684.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(5035px)"
+    ],
+    "sample_text": "03/04/2020 10:07:18 腹部常韫 TIS0.7 MI 1.2 C5-1 14Hz M3 M4 +18.5 骂% 动态范围 55 余辉 中 HGen 彩鱼血谥 50% 1440H2 WF 72H2 -18.5 3.0MHZ cmls 1.6 3.2 IIcm'"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11348575.2678685644.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11348575.2678685644.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(1314px)"
+    ],
+    "sample_text": "03/04/2020 10:06:37 腹部常韫 TIS0.7 M 1.1 C5-1 1OHz M3 M4 +18.5 2 65% 动态范围 55 余辉 中 HGen 彩鱼血谥 50% 1320H2 WF 65HZ -18.5 2.8MHZ cmls 1.6 3.2 IGcm一"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11348575.2880007526.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11348575.2880007526.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(5814px)"
+    ],
+    "sample_text": "03/04/2020 10:07:12 腹部常韫 TIS0.7 MI 1.2 C5-1 14Hz M3 M4 +18.5 2 5% 动态范围 55 余辉 中 HGen 彩鱼血谥 50% 1440H2 WF 72H2 -18.5 3.0MHZ cmls 1.6 3.2 IIcm'"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11348602.3087253932.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11348602.3087253932.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(867px)"
+    ],
+    "sample_text": "03/04/2020 10:33:34 乳腺 TIS0.2 M10.7 112-5 9Hz M3 MG +2.5 7 % 动态范围 B0 余辉 中 HGen 彩鱼血谥 59% 325H2 WF 17H2 -2.5 5.0MHZ cmls 4.0 8.0 3.5cm:"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11348927.84856468.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11348927.84856468.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(51921px)"
+    ],
+    "sample_text": "LB 15491420200304 03/04/2020 15:58:22 腹部常韫 TIS0.7 从 1.1 C5-1 1OHz M3 M4 +18.5 乙1.2 ? 63% 动态范围 55 余辉 中 HGen 氽鱼血谥 50% 1320H2 WF 65HZ -18.5 2.8MHZ cmls 1.6 3.2"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11358845.3767905826.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11358845.3767905826.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "DopplerParam(57.8 cmls)"
+    ],
+    "sample_text": "CMQ 12291020200309 Quanzhou NO.1 Hospital EPIQ7 2020/03/09 10:35.53 081 TIB0.3 MI 1.0 C5-1 M3 11H2 +57.8 ?% 动态范围 B0 余辉  低 HGen 裘色血  51% 4875H2 WF 219H2 3.3MHz 5"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11358850.1942173309.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11358850.1942173309.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24w)"
+    ],
+    "sample_text": "CMQ 12291020200309 Quanzhou NO.1 Hospital EPIQ7 2020/03/09 10:41:07 081 TIB0.1 MI 1.0 C5-1 35H2 N3 RS ? % 动态范围 B0 余辉  低 HGen ?小脑 2.50 cm 00 GA 24w3d -1.00SD"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11358850.4197508649.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11358850.4197508649.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(双顶径)",
+      "ObstetricChinese(头围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "CMQ 12291020200309 Quanzhou NO.1 Hospital EPIQ7 2020/03/09 10:40:54 081 TIB0.1 MI 1.0 C5-1 35H2 N3 RS ? % 动态范围 G0 余辉  低 HGen 双顶径 5.84 cm GA 24wOd -0.41 SD 头围 21"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11358854.2327575489.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11358854.2327575489.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(腹围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "CMQ 12291020200309 Quanzhou NO.1 Hospital EPIQ7 2020/03/09 10:44:52 081 TIB0.1 MI 1.0 C5-1 33H2 州3 RS 2 62% 动态范围 B0 余辉  低 HGen 00 腹围 20.14 cm GA 24wGd 0.29 SD 超"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11358855.1302869722.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11358855.1302869722.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(6527px)"
+    ],
+    "sample_text": "CMQ 12291020200309 Quanzhou NO.1 Hospital EPIQ7 2020/03/09 10:45.16 081 TIB0.3 MI 1.0 C5-1 13Hz M3 M3 +38.5 2 69% 动态范围 B0 余辉  低 HGen 」鱼血谥 51% 3250H2 WF 146H2 -3"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11358855.1333118768.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11358855.1333118768.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 23w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(股骨长)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "CMQ 12291020200309 Quanzhou NO.1 Hospital EPIQ7 2020/03/09 10:46:12 081 TIB0.1 MI 1.0 C5-1 t2 1.0 股骨长 4.07 cm GA 23w2d -1.16 SD EFW( 计算) 6499 超声平均孕龄 23WGd"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11358856.1433993402.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11358856.1433993402.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24w)"
+    ],
+    "sample_text": " CMQ 12291020200309 Quanzhou NO.1 Hospital EPIQ7 2020/03/09 10:47.13 081 TIB0.1 MI 1.0 C51 酆2 1.0 40 肱骨 4.07 cm GA 24w5d 0.14 SD"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11358858.1149565007.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11358858.1149565007.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "CMQ 12291020200309 Quanzhou NO.1 Hospital EPIQ7 2020/03/09 10:48:47 081 TIB0.1 MI 1.0 C51 y2 乙1.0 左下象限 2.59 cm 左上象限 2.56 cm 羊水指数  12.54 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11358858.3731148249.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11358858.3731148249.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": " CMQ 12291020200309 Quanzhou NO.1 Hospital EPIQ7 2020/03/09 10:48:31 081 TIB0.1 MI 1.0 C51 y2 乙1.0 10 右下象限  4.32cm 右上象限  3.07 cm 左下象限 羊水指数  7.39cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11359187.380008952.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11359187.380008952.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/03/09 16.17.59 早孕 TIS0.1 MI 1.0 C5-1 33H2 州3 RS 2 63% 动态范围 58 余辉  低 HRes 00"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11359187.824420859.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11359187.824420859.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION",
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)",
+      "SpectralWaveformGrid(4092px)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/03/09 16.17.29 早孕 TIS0.7 MI 1.0 C5-1 17H2 N3 N3 +14.4 7% 动态范围 58 余辉  低 HRes 」鱼血谥 49% 131312 WF 85HZ -14.4 3.5MHZ cmls BR 10"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11359189.1757732684.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11359189.1757732684.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/03/09 16.19:41 早孕 TIS0.1 MI 1.0 C5-1 33H2 N3 RS 2 63% 动态范围 58 余辉  低 HRes 00"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11359189.900331359.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11359189.900331359.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/03/09 16.19:39 早孕 TIS0.1 MI 1.0 C5-1 33H2 N3 RS 2 63% 动态范围 58 余辉  低 HRes 00"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11359190.2210962869.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11359190.2210962869.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/03/09 16.21;08 早孕 TIS0.3 MI 1.0 C5-1 BgHz 州3 RS 织 61% 动态范围 58 余辉  低 HRes"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11359190.3801106405.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11359190.3801106405.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 13w)",
+      "ObstetricChinese(早孕)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(顶臀长)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/03/09 16.20:46 早孕 TIS0.1 MI 1.0 C5-1 33H2 N3 RS 织 64% 动态范围 58 余辉  低 HRes 00 顶臀长 68.03 mm GA 13w1d 超声平均孕龄 13wId"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11359190.3970575146.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11359190.3970575146.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 13w)",
+      "ObstetricChinese(早孕)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(顶臀长)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/03/09 16.20:44 早孕 TIS0.1 MI 1.0 C5-1 33H2 州3 RS 织 64% 动态范围 58 余辉  低 HRes 00 顶臀长 68.03 mm GA 13w1d 超声平均孕龄 13wId"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11359213.4042550825.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11359213.4042550825.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "DopplerParam(40 cmls)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/03/09 16:43:36 FetalEcho TIB0.3 M1 0.3 C5-1 2BHZ M2 M6 +38.5 2 58% T 动态范围 50 余辉  低 HGen 8 彩色血谥 64% 3250H2 -38.5 WF 260HZ cmls "
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11363284.2438459076.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11363284.2438459076.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(1025px)"
+    ],
+    "sample_text": "WMZ 14371520200311 03111/2020 16:19:24 腹部常韫 TIS0.6 MI 1.3 C5-1 1OHz N3 M4 +18.5 2 65% 动态范围 55 余辉 中 HGen 彩鱼血谥 50% 1440H2 WF 72H2 -18.5 3.0MHZ cmls 1.6 3.2 IGcm:"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11363284.2478891869.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11363284.2478891869.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(2461px)"
+    ],
+    "sample_text": "WMZ 14371520200311 03111/2020 16:19:38 腹部常韫 TIS0.6 MI 1.3 C5-1 12H2 M3 M4 +18.5 织 66% 动态范围 55 余辉 中 HGen 彩色血逑 49% 1440H2 WF 72H2 -18.5 3.0MHZ cmls 1.6 3.2 IGcm:"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11363287.521201970.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11363287.521201970.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(6679px)"
+    ],
+    "sample_text": "WMZ 14371520200311 03111/2020 16:22:41 腹部常韫 TIS0.5 MI 1.3 C5-1 12H2 M3 M4 +18.5 2 62% 动态范围 55 余辉 中 HGen 」鱼血谥 49%  1560HZ WF 70HZ -18.5 3.3MHZ cmls 1.63.2 I2cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11364921.4150700340.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11364921.4150700340.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 27w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(腹围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "31190920200312 Quanzhou NO.1 Hospital EPIQ7 2020/03112 09:28:04 081 TIB0.1 MI 1.0 C5-1 33H2 州3 RS 2 65% 动态范围 B0 余辉  低 HGen 00 腹围 22.79 cm GA 27w2d 0.27 SD 超声平均孕"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11364926.1622187885.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11364926.1622187885.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 28w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(双顶径)",
+      "ObstetricChinese(头围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "CXQ 31190920200312 Quanzhou NO.1 Hospital EPIQ7 2020/03112 09:32:30 081 TIB0.1 MI 1.0 C5-1 35H2 N3 RS ? % 动态范围 G0 余辉  低 HGen 双顶径 6.99 cm GA 28wId 1.07 SD :头围 25"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11364926.412913662.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11364926.412913662.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 27W)"
+    ],
+    "sample_text": "CXQ 31190920200312 Quanzhou NO.1 Hospital EPIQ7 2020/03112 09:32:46 081 TIB0.1 MI 1.0 C5-1 35H2 州3 RS 7% 动态范围 B0 余辉  低 HGen ?小脑 2.93 cm 00 GA 27W4d -0.75 SD"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11364928.1587466202.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11364928.1587466202.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(27w3d)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(股骨长)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "CXQ 31190920200312 Quanzhou NO.1 Hospital EPIQ7 2020/03112 09:34:33 081 TIB0.1 MI 1.0 35H2 磐 1.0 股骨长 4.94 cm GA 2GwSd -0.3150 EFW (计算) 10219 超声平均孕龄 27w3d C5-1"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11364930.631035241.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11364930.631035241.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "CXQ 31190920200312 Quanzhou NO.1 Hospital EPIQ7 2020/03112 09:37:01 081 TIB0.1 MI 1.0 C51 23H2 劈0 10 右下象限  4.95 cm 右上象限  3.19 cm 左下象限 羊水指数  &.14 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11368989.2836114150.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11368989.2836114150.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "ChineseDoppler(收缩速度)",
+      "ChineseDoppler(峰值收缩速度)",
+      "ChineseDoppler(舒张末期流速)",
+      "ChineseDoppler(阻力指数)",
+      "ChineseDoppler(舒张末期)",
+      "DopplerParam(18.5 cmls)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/03114 09:01:00 XSP TIS0.3 M1 0.6 C5-1 11H2 峰值收缩速度 18.5 cmls M3M6 +25.4 舒张末期流速  &.17 cmls 7% 阻力指数 0.56 动态范围 55 上 余辉 中 HRes 裘色血 "
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11375263.2337560439.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11375263.2337560439.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(3662px)"
+    ],
+    "sample_text": "XJH 05061120200317 03117/2020 11:10:54 乳腺 TIS0.2 M10.6 112-5 1OHz M3 MG +2.5 骂% 动态范围 B0 余辉 中 HGen 彩鱼血谥 Tz 59% 366HZ WF 2OHZ -2.5 5.6MHZ cmls 4.0 8.0 3ScI:"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11375265.2589747671.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11375265.2589747671.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(850px)"
+    ],
+    "sample_text": "XJH 05061120200317 03117/2020 11:12:44 乳腺 TIS0.2 M10.6 112-5 1OHz M3 MG +2.5 2 58% 动态范围 G0 余辉 中 HGen 彩鱼血谥 59% 366H2 WF 2OHZ -2.5 5.6MHZ cmls 4.0 8.0 3.5cm:"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11375267.2143606399.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11375267.2143606399.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(857px)"
+    ],
+    "sample_text": "XJH 05061120200317 03117/2020 11:14:23 乳腺 TIS0.2 M10.6 112-5 1OHz M3 MG +2.5 2 57% 动态范围 G0 余辉 中 HGen 彩鱼血谥 59% 366HZ WF 2OHZ -2.5 5.6MHZ cmls 4.0 8.0 3.5cm:"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11377203.2197895805.jpg",
+    "folder": "train/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\train\\NUF\\1.2.826.0.1.3680043.2.461.11377203.2197895805.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 34w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(双顶径)",
+      "ObstetricChinese(头围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "H0 39170920200318 Quanzhou NO.1 Hospital EPIQ7 2020/03/18 09:22:10 081 TIB0.1 MI 1.0 C5-1 27H2 N3 RS 2 81% 动态范围 G0 余辉  低 HGen 00 双顶径 8.53 cm GA 34w3d 1.3250 :头围"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11788927.2195110053.jpg",
+    "folder": "test/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\UF\\1.2.826.0.1.3680043.2.461.11788927.2195110053.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "10/05/2020 10:38:30 早孕 TIS0.1 MI 1.0 C5-1 33H2 N3 RS 乙1.2 ?% 动态范围 58 余辉  低 HRes '14.2 距离 3.78 cm 距离 3.30cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11797439.3185457527.jpg",
+    "folder": "test/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\UF\\1.2.826.0.1.3680043.2.461.11797439.3185457527.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "05311520201009 Quanzhou N0.1 EPIQ7 2020/10/09 16:00:21 早孕 TIS0.1 MI 1.0 C5-1 30Hz N RS 2 62% 动态范围 58 余辉  低 HRes 《 [ 片 & 10 距离 1.12 cm 距离 1.06 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11805241.1307563527.jpg",
+    "folder": "test/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\UF\\1.2.826.0.1.3680043.2.461.11805241.1307563527.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "21390720201013 Quanzhou N0.1 EPIQ7 2020/10/13 09:30:56 早孕 TIS0.1 MI 1.0 C5-1 38H2 N RS 2 54% 动态范围 58 余辉  低 HRes 兴 X2 距离 1.91cm 距离 1.58 cm 10"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11817866.949625211.jpg",
+    "folder": "test/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\UF\\1.2.826.0.1.3680043.2.461.11817866.949625211.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(孕龄)"
+    ],
+    "sample_text": "OB TIB0.1 MI 1.0 C5-1 孕龄 23424 37H2 M3 RS 2 124 58% 138 动态范围 G0 R0 余烽  低 HGen 『 9 1.7 3.4 距离 1.17 cm 距离  0.782cm 加0"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11848270.2092863609.jpg",
+    "folder": "test/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\UF\\1.2.826.0.1.3680043.2.461.11848270.2092863609.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "39300720201103 Quanzhou N0.1 EPIQ7 2020/11/03 09:51:53 早孕 TIS0.1 MI 1.0 C5-1 33H2 N RS 2 65% 动态范围 58 余辉  低 HRes 10 距离 2.33 cm 距离 1.67 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11874912.3401540329.jpg",
+    "folder": "test/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\UF\\1.2.826.0.1.3680043.2.461.11874912.3401540329.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(孕龄)"
+    ],
+    "sample_text": "OB TIB0.1 MI 1.0 C5-1 孕龄 23414 37H2 M3 RS ? 19 57% 34 动态范围 G0 148 余烽  低 HGen 鹃 留 1.7 3 距离 1.89 cm 距离  0.887 cm 0"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11921936.1447545817.jpg",
+    "folder": "test/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\UF\\1.2.826.0.1.3680043.2.461.11921936.1447545817.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(孕龄)"
+    ],
+    "sample_text": "OB TIB0.1 MI 1.0 孕龄 2GwOd C5-1 35H2 M3 RS 2 64% 动态范围 G0 余烽  低 HGen  企 1.7  3.4 距离 3.52cm 距离 1.90 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11946495.2574575464.jpg",
+    "folder": "test/UF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\UF\\1.2.826.0.1.3680043.2.461.11946495.2574575464.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(孕龄)"
+    ],
+    "sample_text": "XUJINGJING 35060820201221 Quanzhou NO.1 Hospital EPIQ5 2020/12/21 08:32:49 中晚孕 TIB0.1 MI 1.0 C51 孕龄  3244d 37H2 州3 RS ? 63% 动态范围 B0 条n # 1.7 距离 2.06 cm 距离 1.11 "
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11223642.4039091429.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11223642.4039091429.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(23492px)"
+    ],
+    "sample_text": "LLQ 19011020200103 Quanzhou NO.1 Hospital EPIQ7 2020/01/03 10:01:38 081 TIB0.2 MI 1.0 C5-1 7HZ N3 N3 +38.5 ? % 动态范围 B0 余辉  低 HGen 」鱼血谥 58% 3250H2 WF 146H2 -38.5"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11223647.1650039668.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11223647.1650039668.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 23w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(股骨长)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "LLQ 19011020200103 Quanzhou NO.1 Hospital EPIQ7 2020/01/03 10:07.35 081 TIB0.1 MI 1.0 35H2 {0 股骨长 4.13 cm GA 23w3d -1.82SD 超声平均孕龄 23W3d C5-1"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11223647.3789311696.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11223647.3789311696.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 23w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(股骨长)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "LLQ 19011020200103 Quanzhou NO.1 Hospital EPIQ7 2020/01/03 10:07:32 081 TIB0.1 MI 1.0 35H2 {0 股骨长 4.13 cm GA 23w3d -1.82SD 超声平均孕龄 23W3d C5-1"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11223648.1551328209.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11223648.1551328209.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 23w)"
+    ],
+    "sample_text": "LLQ 19011020200103 Quanzhou NO.1 Hospital EPIQ7 2020/01/03 10:08:51 081 TIB0.1 MI 1.0 35H2 {0 肱骨 3.78 cm GA 23w3d -1.48 SD C5-1"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11223657.4070359751.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11223657.4070359751.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 24W)"
+    ],
+    "sample_text": "LLQ 19011020200103 Quanzhou NO.1 Hospital EPIQ7 2020/01/03 10:18:13 081 TIB0.1 MI 1.0 C5-1 35H2 州3 RS ? % 动态范围 B0 余辉  低 HGen ?小脑 2.57 cm 00 GA 24WGd -1.61 SD"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11223659.1095246867.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11223659.1095246867.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "LLQ 19011020200103 Quanzhou NO.1 Hospital EPIQ7 2020/01/03 10:20:06 081 TIB0.1 MI 1.0 C5 35H2 {.0 左下象限  2.20cm 左上象限  2.01cm 羊水指数 &.00 cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11223659.2164630962.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11223659.2164630962.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "LLQ 19011020200103 Quanzhou NO.1 Hospital EPIQ7 2020/01/03 10:19:38 081 TIB0.1 MI 1.0 35H2 磐 1.0 右下象限  2.60 cm 右上象限  1.19 cm 左下象限 羊水指数  3.79 cm C5-1"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11229666.2297225939.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11229666.2297225939.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 35w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(股骨长)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "TJF 43380720200106 Quanzhou NO.1 Hospital EPIQ7 2020/01/06 07:46:30 081 TIB0.1 MI 1.0 C5-1 27H2 N3 RS 7% 动态范围 B0 余辉  低 HGen 00 股骨长 6.87 cm GA 35w2d -1.54 SD EFW"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11229666.2611952937.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11229666.2611952937.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "UF 43380720200106 Quanzhou NO.1 Hospital EPIQ7 2020/01/06 07:49:42 081 TIB0.1 MI 1.0 C51 2GHZ 劈.0 10 15 左下象限 2.47 cm 左上象限 3.00cm 羊水指数  12.39cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11229666.3862918035.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11229666.3862918035.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "TJF 43380720200106 Quanzhou NO.1 Hospital EPIQ7 2020/01/06 07:49:23 081 TIB0.1 MI 1.0 C51 2GHZ 劈 1.0 10 右下象限  3.00cm 右上象限  3.92cm 左下象限 羊水指数  6.92cm"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11237869.2262824724.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11237869.2262824724.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "ChineseDoppler(收缩速度)",
+      "ChineseDoppler(峰值收缩速度)",
+      "ChineseDoppler(舒张末期流速)",
+      "ChineseDoppler(阻力指数)",
+      "ChineseDoppler(舒张末期)",
+      "DopplerParam(46.2cmls)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/01/10 08.12:51 XSP TIS1.3 M1 0.6 C5-1 12H2 220 峰值收缩速度  46.2cmls M3M6 +33.9 舒张末期流速 -11.3 cmls 2 阻力指数 0.76 62% 动态范围 55 余辉 中 HRes"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11237873.369719547.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11237873.369719547.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "ChineseDoppler(收缩速度)",
+      "ChineseDoppler(峰值收缩速度)",
+      "ChineseDoppler(舒张末期流速)",
+      "ChineseDoppler(阻力指数)",
+      "ChineseDoppler(舒张末期)",
+      "DopplerParam(46.2cmls)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/01/10 08.16:07 XSP TIS0.6 M1 0.6 C5-1 13Hz 12。 峰值收缩速度 46.2cmls M3M6 +33.9 舒张末期流速 11.0 cmls 72% 阻力指数 0.73 动态范围 55  余辉 中 HRes 裘色"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11238270.2337205485.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11238270.2337205485.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(胎儿)"
+    ],
+    "sample_text": "43331420200110 Quanzhou No.1 Hospital  Affiniti 70 2020/01/10 14:54:03 产科胎儿心脏 TIB0.4 MI 1.0 C5-1 16Hz M4 M1 +38.5 2 84% 动态范围  50 余辉  低 HGen 彩鱼血谥 53% 307712 WF 1"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11244067.3583413678.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11244067.3583413678.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "01/13/2020 09:06:41 早孕 TIS0.1 MI 1.0 C5-1 38H2 N3 RS 2 5% 动态范围 58 余辉  低 HRes @ 2.1 4.2 IOcm-"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11244067.497019654.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11244067.497019654.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 11w)",
+      "ObstetricChinese(早孕)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(顶臀长)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "01/13/2020 09:06.27 早孕 TIS0.1 MI 1.0 C5-1 38H2 N3 RS 2 52% 动态范围 58 余辉  低 HRes \" 2.1 4.2 顶臀长 44.80 mm GA 11w3d 超声平均孕龄 I1w3d IOcm-"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11244067.574022937.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11244067.574022937.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION",
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)",
+      "SpectralWaveformGrid(3293px)"
+    ],
+    "sample_text": "01/13/2020 09:06:32 早孕 TIS0.5 MI 1.0 C5-1 2OHz M3 N3 +24.1 2 65% 动态范围 58 余辉  低 HRes 彩鱼血谥 49% 2188H2 WF 120H2 -24.1 3.5MHZ cmls 2.1 4.2 IOcm-"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11244068.2485640771.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11244068.2485640771.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "01/13/2020 09:08:03 早孕 TIS0.1 MI 1.0 C5-1 38H2 N3 RS 2 62% 动态范围 58 余辉  低 HRes @ 2.1 4.2 IOcm-"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11244068.3071183174.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11244068.3071183174.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)"
+    ],
+    "sample_text": "01/13/2020 09:08:09 早孕 TIS0.1 MI 1.0 C5-1 38H2 N3 RS 2 62% 动态范围 58 余辉  低 HRes 2.1 4 IOcm-"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11244069.1479285154.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11244069.1479285154.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION",
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)",
+      "SpectralWaveformGrid(11510px)"
+    ],
+    "sample_text": "01/13/2020 09:08:53 早孕 TISO.B MI 1.0 C5-1 18H2 N3 N3 +24.1 2 80% 动态范围 58 余辉  低 HRes 彩鱼血谥 49% 2188H2 WF 120H2 -24.1 3.5MHZ cmls @ 2.1 4.2 IOcm-"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11264690.3606795654.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11264690.3606795654.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(早孕)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(顶臀长)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "Quanzhou NO.1 Hospital EPIQ7 2020/01/23 11:29:34 早孕 TIS0.4 MI 1.0 C5-1 78H2 州3 RS 骂% 动态范围 58 余辉  低 HRes X 顶臀长 5.10mm GA Bwzd 超声平均孕龄 Gwzd"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11278884.3227083185.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11278884.3227083185.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(610px)"
+    ],
+    "sample_text": "01/30/2020 09:07:57 腹部常韫 TIS0.4 MI 1.3 C5-1 13Hz M3 M4 +18.5 织 64% 动态范围 55 余辉 中 HGen 彩鱼血谥 50%  1560HZ WF 70HZ -18.5 3.3MHZ cmls 1.6 3.2 IGcm一"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11319801.3079212099.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11319801.3079212099.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 23w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(双顶径)",
+      "ObstetricChinese(头围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "ZLH 00220820200219 Quanzhou NO.1 Hospital EPIQ7 2020/02/19 08.26;08 081 TIB0.2 M10.9 C5-1 33H2 N3 RS ?% 动态范围 G0 余辉  低 HGen 双顶径 5.80 cm GA 23wGd -0.40 SD 10 :头围 "
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11348601.3652661835.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11348601.3652661835.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(852px)"
+    ],
+    "sample_text": "03/04/2020 10:32:43 乳腺 TIS0.2 M10.7 112-5 9Hz M3 MG +2.5 7 % 动态范围 G0 余辉 中 HGen 彩鱼血谥 59% 325H2 WF 17H2 -2.5 5.0MHZ cmls 4.0 8.0 3.5cm:"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11348604.1699895037.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11348604.1699895037.jpg",
+    "flag_types": [
+      "SPECTRAL_DOPPLER_CONTAMINATION"
+    ],
+    "reasons": [
+      "SpectralWaveformGrid(850px)"
+    ],
+    "sample_text": "03/04/2020 10:35:31 乳腺 TIS0.2 M10.7 112-5 9Hz M3 MG +2.5 鹗 % 动态范围 B0 余辉 中 HGen 彩鱼血谥 59% 325H2 WF 17H2 2.5 5.0MHZ cmls 4.0 8.0 3.5cm:"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11377205.307187074.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11377205.307187074.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 34w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(腹围)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "H0 39170920200318 Quanzhou NO.1 Hospital EPIQ7 2020/03/18 09:23:45 081 TIB0.1 MI 1.0 C5-1 27H2 N3 RS 2 81% 动态范围 B0 余辉  低 HGen 00 腹围 30.21 cm GA 34w2d 1.34 SD 超声"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11377207.1299246130.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11377207.1299246130.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 31w)",
+      "ObstetricChinese(孕龄)",
+      "ObstetricChinese(股骨长)",
+      "ObstetricChinese(平均孕龄)"
+    ],
+    "sample_text": "H0 39170920200318 Quanzhou NO.1 Hospital EPIQ7 2020/03/18 09:25.12 081 TIB0.1 MI 1.0 C5-1 27H2 N3 RS 2 84% 动态范围 B0 余辉  低 HGen 00 股骨长 6.08 cm GA 31w5d -0.93 SD E"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11377207.1933935378.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11377207.1933935378.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricRegex(GA 32w)"
+    ],
+    "sample_text": "H0 39170920200318 Quanzhou NO.1 Hospital EPIQ7 2020/03/18 09:25:31 081 TIB0.1 MI 1.0 C5-1 27H2 州3 RS 2 83% 动态范围 B0 余辉  低 HGen 00 肱骨 5.57 cm GA 32w3d 0.09 SD 15"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11377208.1703911707.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11377208.1703911707.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "H0 39170920200318 Quanzhou NO.1 Hospital EPIQ7 2020/03/18 09:27:09 081 TIB0.0 MI 1.0 C51 \"2BHz 1 1.0 10 15 右下象限 4.28 cm :右上象限 6.51 cm 左下象限 羊水指数  10.79cm 20"
+  },
+  {
+    "filename": "1.2.826.0.1.3680043.2.461.11377209.4200504414.jpg",
+    "folder": "test/NUF",
+    "path": "d:\\Project\\UteroScan\\datasets\\datasets\\test\\NUF\\1.2.826.0.1.3680043.2.461.11377209.4200504414.jpg",
+    "flag_types": [
+      "OB_CONTAMINATION"
+    ],
+    "reasons": [
+      "ObstetricChinese(羊水)"
+    ],
+    "sample_text": "H0 39170920200318 Quanzhou NO.1 Hospital EPIQ7 2020/03/18 09:27.23 081 TIB0.0 MI 1.0 C51 \"2BHz 壁 1.0 10 15 :左下象限 3.22cm 左上象限 3.77 cm 羊水指数  17.78cm 20"
+  }
+]

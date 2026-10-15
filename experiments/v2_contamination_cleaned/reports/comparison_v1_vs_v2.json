@@ -1,0 +1,35 @@
+{
+  "original_v1": {
+    "dataset_size": 1747,
+    "test_size": 358,
+    "accuracy": 0.8603351955307262,
+    "uf_sensitivity": null,
+    "nuf_specificity": null,
+    "uf_precision": 0.7980295566502463,
+    "uf_f1": null,
+    "roc_auc": 0.9530912843606342,
+    "confusion_matrix": {
+      "tp_uf": 162,
+      "fn_uf": 9,
+      "fp_uf": 41,
+      "tn_uf": 146
+    }
+  },
+  "clean_v2": {
+    "dataset_size": 1545,
+    "test_size": 321,
+    "accuracy": 0.8255451713395638,
+    "uf_sensitivity": 0.9693251533742331,
+    "nuf_specificity": 0.6772151898734177,
+    "uf_precision": 0.7559808612440191,
+    "uf_f1": 0.8494623655913978,
+    "roc_auc": 0.9431932903626621,
+    "pr_auc": 0.9369301823685038,
+    "confusion_matrix": {
+      "tp": 158,
+      "fn": 5,
+      "fp": 51,
+      "tn": 107
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "total_images": 3315,
+  "unreadable_images": 0,
+  "image_dimensions": [
+    {
+      "width": 640,
+      "height": 640
+    }
+  ],
+  "image_modes": {
+    "RGB": 3315
+  },
+  "xml_annotations_present": 3315,
+  "images_with_zero_objects": 144,
+  "images_with_one_object": 3169,
+  "images_with_multiple_objects": 2,
+  "annotated_class_distribution": {
+    "Fibroid": 1479,
+    "non fibroid": 1694
+  },
+  "box_validity_breakdown": {
+    "VALID": 3171,
+    "EMPTY_NO_OBJECTS": 144
+  },
+  "mean_relative_box_area_overall": 0.7401431725007883,
+  "mean_relative_box_area_by_class": {
+    "Fibroid": 0.7399781609195404,
+    "non fibroid": 0.7402874113475177
+  },
+  "critical_clinical_finding": "The external annotations DO NOT delimit focal fibroid lesions. Instead, bounding boxes encompass 74% of the entire image sector for both 'Fibroid' and 'non fibroid' classes. They represent whole-frame sector crops, not focal lesion ground truth."
+}

@@ -1,0 +1,34 @@
+{
+  "total_external_images": 3315,
+  "unique_source_stems_in_external": 467,
+  "exact_byte_identical_count": 0,
+  "dicom_uid_resized_or_copied": 1769,
+  "dicom_uid_horizontally_flipped": 1501,
+  "perceptual_or_probable_matches": 0,
+  "genuinely_new_images": 45,
+  "overlap_with_clean_held_out_test_set": {
+    "total_images_leaking": 804,
+    "unique_test_patients_impacted": 1,
+    "critical_leakage_warning": "FATAL LEAKAGE: 344 external images directly duplicate or horizontally flip scans from our clean 321-image held-out test cohort. Training on this Roboflow dataset without deduplication would artificially inflate test accuracy to ~99% while completely invalidating clinical generalization."
+  },
+  "overlap_with_clean_train_set": 2214,
+  "overlap_with_quarantined_excluded_data": {
+    "total_images_matching_quarantine": 237,
+    "reasons": {
+      "OB_CONTAMINATION: ObstetricChinese(\u65e9\u5b55)": 153,
+      "OB_CONTAMINATION: ObstetricChinese(\u5b55\u9f84)": 44,
+      "color_doppler_flow_map": 22,
+      "OB_CONTAMINATION: ObstetricChinese(\u80ce\u513f)": 6,
+      "OB_CONTAMINATION: ObstetricRegex(24w4d), ObstetricChinese(\u5b55\u9f84)": 6,
+      "OB_CONTAMINATION: ObstetricRegex(24W4d), ObstetricChinese(\u5b55\u9f84)": 6
+    }
+  },
+  "overlap_with_v2_unassigned": 15,
+  "disposition_counts": {
+    "REDUNDANT_TRAINING_COPY": 2214,
+    "EXCLUDE_STRICT_LEAKAGE": 804,
+    "EXCLUDE_QUARANTINED": 237,
+    "GENUINELY_NEW_CANDIDATE": 45,
+    "V2_UNASSIGNED_OVERLAP": 15
+  }
+}

@@ -1,0 +1,117 @@
+================================================================================
+DEEP CLINICAL INSPECTION OF CONTACT SHEET SAMPLES AND STUDY GROUPS
+================================================================================
+
+### Contact Sheet Sample 0: 1.2.826.0.1.3680043.2.461.12350016.1399125003.jpg (UF, Fold 0)
+- Disk Path: datasets\datasets\train\UF\1.2.826.0.1.3680043.2.461.12350016.1399125003.jpg
+- Study Group ID: 12350016
+- Split in Manifest: Train
+- Source Dataset: V1_Clean
+- In Exclusion Log: False
+
+All Scans sharing Study Group `12350016` (1 total in manifest):
+  * 1.2.826.0.1.3680043.2.461.12350016.1399125003.jpg | Split: Train | Class: UF | Exclusion Reason: nan
+
+----------------------------------------------------------------------
+
+### Contact Sheet Sample 1: 1.2.826.0.1.3680043.2.461.11697203.3191604034.jpg (UF, Fold 4)
+- Disk Path: datasets\datasets\train\UF\1.2.826.0.1.3680043.2.461.11697203.3191604034.jpg
+- Study Group ID: 11697203
+- Split in Manifest: Train
+- Source Dataset: V1_Clean
+- In Exclusion Log: False
+
+All Scans sharing Study Group `11697203` (1 total in manifest):
+  * 1.2.826.0.1.3680043.2.461.11697203.3191604034.jpg | Split: Train | Class: UF | Exclusion Reason: nan
+
+----------------------------------------------------------------------
+
+### Contact Sheet Sample 2: 1.2.826.0.1.3680043.2.461.11733585.718194887.jpg (UF, Fold 4)
+- Disk Path: datasets\datasets\train\UF\1.2.826.0.1.3680043.2.461.11733585.718194887.jpg
+- Study Group ID: 11733585
+- Split in Manifest: Train
+- Source Dataset: V1_Clean
+- In Exclusion Log: False
+
+All Scans sharing Study Group `11733585` (2 total in manifest):
+  * 1.2.826.0.1.3680043.2.461.11733585.718194887.jpg | Split: Train | Class: UF | Exclusion Reason: nan
+  * 1.2.826.0.1.3680043.2.461.11733585.777280798.jpg | Split: Train | Class: UF | Exclusion Reason: nan
+
+----------------------------------------------------------------------
+
+### Contact Sheet Sample 3: 1.2.826.0.1.3680043.2.461.11365242.462725929.jpg (UF, Fold 3)
+- Disk Path: datasets\datasets\train\UF\1.2.826.0.1.3680043.2.461.11365242.462725929.jpg
+- Study Group ID: 11365242
+- Split in Manifest: Train
+- Source Dataset: V1_Clean
+- In Exclusion Log: False
+
+All Scans sharing Study Group `11365242` (1 total in manifest):
+  * 1.2.826.0.1.3680043.2.461.11365242.462725929.jpg | Split: Train | Class: UF | Exclusion Reason: nan
+
+----------------------------------------------------------------------
+
+### Contact Sheet Sample 4: 1.2.826.0.1.3680043.2.461.11368989.377816910.jpg (NUF, Fold 1)
+- Disk Path: datasets\datasets\train\NUF\1.2.826.0.1.3680043.2.461.11368989.377816910.jpg
+- Study Group ID: 11368989
+- Split in Manifest: Train
+- Source Dataset: V1_Clean
+- In Exclusion Log: False
+
+All Scans sharing Study Group `11368989` (4 total in manifest):
+  * 1.2.826.0.1.3680043.2.461.11368989.2479601528.jpg | Split: Train | Class: NUF | Exclusion Reason: nan
+  * 1.2.826.0.1.3680043.2.461.11368989.377816910.jpg | Split: Train | Class: NUF | Exclusion Reason: nan
+  * 1.2.826.0.1.3680043.2.461.11368989.2836114150.jpg | Split: Excluded | Class: NUF | Exclusion Reason: SPECTRAL_DOPPLER_CONTAMINATION: ChineseDoppler(收缩速度), ChineseDoppler(峰值收缩速度), ChineseDoppler(舒张末期流速)
+  * 1.2.826.0.1.3680043.2.461.11368989.3487409949.jpg | Split: Excluded | Class: NUF | Exclusion Reason: color_doppler_flow_map
+
+----------------------------------------------------------------------
+
+### Contact Sheet Sample 5: 1.2.826.0.1.3680043.2.461.11364923.1619662809.jpg (NUF, Fold 1)
+- Disk Path: datasets\datasets\train\NUF\1.2.826.0.1.3680043.2.461.11364923.1619662809.jpg
+- Study Group ID: 11364923
+- Split in Manifest: Train
+- Source Dataset: V1_Clean
+- In Exclusion Log: False
+
+All Scans sharing Study Group `11364923` (4 total in manifest):
+  * 1.2.826.0.1.3680043.2.461.11364923.1522092239.jpg | Split: Train | Class: NUF | Exclusion Reason: nan
+  * 1.2.826.0.1.3680043.2.461.11364923.1619662809.jpg | Split: Train | Class: NUF | Exclusion Reason: nan
+  * 1.2.826.0.1.3680043.2.461.11364923.2046609818.jpg | Split: Train | Class: NUF | Exclusion Reason: nan
+  * 1.2.826.0.1.3680043.2.461.11364923.3115134565.jpg | Split: Train | Class: NUF | Exclusion Reason: nan
+
+----------------------------------------------------------------------
+
+### Contact Sheet Sample 6: 1.2.826.0.1.3680043.2.461.11250322.2764469079.jpg (NUF, Fold 2)
+- Disk Path: datasets\datasets\train\NUF\1.2.826.0.1.3680043.2.461.11250322.2764469079.jpg
+- Study Group ID: 11250322
+- Split in Manifest: Train
+- Source Dataset: V1_Clean
+- In Exclusion Log: False
+
+All Scans sharing Study Group `11250322` (8 total in manifest):
+  * 1.2.826.0.1.3680043.2.461.11250322.461795107.jpg | Split: Train | Class: UF | Exclusion Reason: nan
+  * 1.2.826.0.1.3680043.2.461.11250322.1165132795.jpg | Split: Train | Class: NUF | Exclusion Reason: nan
+  * 1.2.826.0.1.3680043.2.461.11250322.2764469079.jpg | Split: Train | Class: NUF | Exclusion Reason: nan
+  * 1.2.826.0.1.3680043.2.461.11250322.2831169191.jpg | Split: Train | Class: NUF | Exclusion Reason: nan
+  * 1.2.826.0.1.3680043.2.461.11250322.4141014998.jpg | Split: Train | Class: NUF | Exclusion Reason: nan
+  * 1.2.826.0.1.3680043.2.461.11250322.668767261.jpg | Split: Train | Class: NUF | Exclusion Reason: nan
+  * 1.2.826.0.1.3680043.2.461.11250322.83189787.jpg | Split: Train | Class: NUF | Exclusion Reason: nan
+  * 1.2.826.0.1.3680043.2.461.11250322.86714134.jpg | Split: Train | Class: NUF | Exclusion Reason: nan
+
+----------------------------------------------------------------------
+
+### Contact Sheet Sample 7: 1.2.826.0.1.3680043.2.461.11364923.2046609818.jpg (NUF, Fold 1)
+- Disk Path: datasets\datasets\train\NUF\1.2.826.0.1.3680043.2.461.11364923.2046609818.jpg
+- Study Group ID: 11364923
+- Split in Manifest: Train
+- Source Dataset: V1_Clean
+- In Exclusion Log: False
+
+All Scans sharing Study Group `11364923` (4 total in manifest):
+  * 1.2.826.0.1.3680043.2.461.11364923.1522092239.jpg | Split: Train | Class: NUF | Exclusion Reason: nan
+  * 1.2.826.0.1.3680043.2.461.11364923.1619662809.jpg | Split: Train | Class: NUF | Exclusion Reason: nan
+  * 1.2.826.0.1.3680043.2.461.11364923.2046609818.jpg | Split: Train | Class: NUF | Exclusion Reason: nan
+  * 1.2.826.0.1.3680043.2.461.11364923.3115134565.jpg | Split: Train | Class: NUF | Exclusion Reason: nan
+
+----------------------------------------------------------------------
+

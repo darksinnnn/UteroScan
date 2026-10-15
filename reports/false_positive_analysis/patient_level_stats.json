@@ -1,0 +1,25 @@
+{
+  "total_nuf_scans": 187,
+  "total_nuf_patients": 92,
+  "contingency_table": {
+    "fp_patients_with_calipers": 20,
+    "fp_patients_no_calipers": 10,
+    "tn_patients_with_calipers": 17,
+    "tn_patients_no_calipers": 45
+  },
+  "rates": {
+    "fp_patients_caliper_rate": 0.6667,
+    "tn_patients_caliper_rate": 0.2742,
+    "raw_rate_ratio": 2.43
+  },
+  "statistics": {
+    "patient_level_odds_ratio": 5.294,
+    "patient_level_fisher_p_value": 0.00055527,
+    "patient_level_chi2_yates_p_value": 0.00074574
+  },
+  "comparison_to_image_level": {
+    "image_level_odds_ratio": 6.116,
+    "image_level_fisher_p_value": 1.252e-06,
+    "clustering_effect": "Within-patient correlation inflated the uncorrected p-value; corrected p-value remains highly statistically significant at p = 5.55e-4"
+  }
+}
