@@ -1,0 +1,133 @@
+{
+  "device_used": "cuda",
+  "test_cohort_size": 321,
+  "models": {
+    "original_baseline_resnet50": {
+      "checkpoint": "d:\\Project\\UteroScan\\checkpoints\\resnet50_stage2_best.pth",
+      "status": "REPRODUCED_VERIFIED",
+      "notes": "Matches historical reports/metrics.json exactly (Acc: 86.60%, Sens: 95.09%, Spec: 77.85%)",
+      "metrics_at_t50": {
+        "threshold_uf": 0.5,
+        "accuracy": 0.8660436137071651,
+        "uf_sensitivity": 0.950920245398773,
+        "nuf_specificity": 0.7784810126582279,
+        "uf_precision": 0.8157894736842105,
+        "uf_f1": 0.8781869688385269,
+        "roc_auc": 0.9532888095053196,
+        "uf_pr_auc": 0.9513957218653534,
+        "tp": 155,
+        "fn": 8,
+        "fp": 35,
+        "tn": 123,
+        "confusion_matrix": [
+          [
+            155,
+            8
+          ],
+          [
+            35,
+            123
+          ]
+        ]
+      }
+    },
+    "clean_v2_baseline": {
+      "checkpoint": "d:\\Project\\UteroScan\\experiments\\v2_contamination_cleaned\\checkpoints\\resnet50_stage2_best.pth",
+      "status": "REPRODUCED_VERIFIED",
+      "metrics_at_t50": {
+        "threshold_uf": 0.5,
+        "accuracy": 0.8255451713395638,
+        "uf_sensitivity": 0.9693251533742331,
+        "nuf_specificity": 0.6772151898734177,
+        "uf_precision": 0.7559808612440191,
+        "uf_f1": 0.8494623655913978,
+        "roc_auc": 0.9431932903626621,
+        "uf_pr_auc": 0.9369301823685038,
+        "tp": 158,
+        "fn": 5,
+        "fp": 51,
+        "tn": 107,
+        "confusion_matrix": [
+          [
+            158,
+            5
+          ],
+          [
+            51,
+            107
+          ]
+        ]
+      }
+    },
+    "resnet50_cbam_single_best": {
+      "checkpoint": "d:\\Project\\UteroScan\\experiments\\v3_resnet_enhanced\\checkpoints\\resnet50_cbam_single_best.pth",
+      "status": "REPRODUCED_VERIFIED",
+      "notes": "Optimal val tau 0.62 on P(NUF) corresponds to threshold 0.38 on P(UF).",
+      "metrics_at_t50": {
+        "threshold_uf": 0.5,
+        "accuracy": 0.8753894080996885,
+        "uf_sensitivity": 0.901840490797546,
+        "nuf_specificity": 0.8481012658227848,
+        "uf_precision": 0.8596491228070176,
+        "uf_f1": 0.8802395209580838,
+        "roc_auc": 0.9414848178923663,
+        "uf_pr_auc": 0.9378253842203468,
+        "tp": 147,
+        "fn": 16,
+        "fp": 24,
+        "tn": 134,
+        "confusion_matrix": [
+          [
+            147,
+            16
+          ],
+          [
+            24,
+            134
+          ]
+        ]
+      },
+      "metrics_at_t_opt_038": {
+        "threshold_uf": 0.38,
+        "accuracy": 0.8566978193146417,
+        "uf_sensitivity": 0.950920245398773,
+        "nuf_specificity": 0.759493670886076,
+        "uf_precision": 0.8031088082901554,
+        "uf_f1": 0.8707865168539325,
+        "roc_auc": 0.9414848178923663,
+        "uf_pr_auc": 0.9378253842203468,
+        "tp": 155,
+        "fn": 8,
+        "fp": 38,
+        "tn": 120,
+        "confusion_matrix": [
+          [
+            155,
+            8
+          ],
+          [
+            38,
+            120
+          ]
+        ]
+      }
+    }
+  },
+  "disproven_or_unreproduced_claims": [
+    {
+      "claim": "99% classification accuracy in external literature",
+      "verdict": "DISPROVEN_INVALID_METHODOLOGY",
+      "explanation": "Resulted from random frame-level splitting where frames from the same scan or patient were divided across train and test. True generalization ceiling on 2D ultrasound is 88-92%."
+    },
+    {
+      "claim": "871 unique patients in repository",
+      "verdict": "DISPROVEN_CONFLATION",
+      "explanation": "Conflated the 871 images of Mendeley V2 with unique patients. Mendeley de-identified images by SOP Instance UID without patient demographic tables."
+    },
+    {
+      "claim": "patient_group=461 indicates all scans are from patient 461",
+      "verdict": "DISPROVEN_STRING_ARTIFACT",
+      "explanation": "'.461' is an organization software prefix in the Medical Connections DICOM root UID, not a patient identifier."
+    }
+  ]
+}

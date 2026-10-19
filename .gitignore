@@ -85,3 +85,13 @@ diagnostic_results.csv
 scratch/
 temp/
 tmp/
+External Dataset
+
+# Documentation Exclusions (Only root README.md permitted on git)
+*.md
+!/README.md
+!/Readme.md
+docs/
+Review_Doc/
+*.docx
+*.pdf

@@ -1,0 +1,17 @@
+{
+  "total_clean_nuf_scans": 158,
+  "total_clean_nuf_patients": 80,
+  "clean_fps": 35,
+  "clean_tns": 123,
+  "contingency_table": {
+    "fp_with_cal": 16,
+    "fp_no_cal": 8,
+    "tn_with_cal": 14,
+    "tn_no_cal": 42
+  },
+  "fp_caliper_rate": 0.6666666666666666,
+  "tn_caliper_rate": 0.25,
+  "odds_ratio": 6.0,
+  "fisher_p_value": 0.0008228814993006716,
+  "chi2_p_value": 0.0010540340457847867
+}

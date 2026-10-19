@@ -1,0 +1,17 @@
+{
+  "audit_objective": "Determine whether patient_group=461 or any genuine patient IDs exist",
+  "root_cause_of_461": "The value '461' was an artifact of string splitting the DICOM UID '1.2.826.0.1.3680043.2.461.<comp8>.<comp9>'. The prefix '1.2.826.0.1.3680043' is the Medical Connections root, and '.2.461' is a constant project/organization identifier. It was identical for all 1,994 repository scans and does NOT represent patient identity.",
+  "component_8_analysis": {
+    "total_repository_scans": 1994,
+    "unique_component_8_clusters": 1198,
+    "mean_scans_per_cluster": 1.664440734557596,
+    "max_scans_in_single_cluster": 22,
+    "is_proven_patient_id": false,
+    "technical_explanation": "Component 8 represents study/series-level grouping in Medical Connections DICOM generation. While scans sharing Component 8 are very likely from the same imaging study, we cannot formally prove that different Component 8 values represent different patients, nor can we guarantee that a patient examined on multiple days shares the same Component 8."
+  },
+  "public_mendeley_metadata_status": {
+    "patient_demographics_available": false,
+    "patient_id_manifest_provided": false,
+    "conclusion": "Genuine clinical patient IDs are NOT available in the public Mendeley repository. Therefore, data splitting must be described as 'Source-Image & Study-Clustered Split', NOT guaranteed patient-level separation. All duplicate/source-image families must be strictly grouped together to prevent scan-level leakage."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-10-15 17:27:39",
+  "total_unique_canonical_scans": 1994,
+  "disposition_summary": {
+    "ELIGIBLE_NUF": 789,
+    "ELIGIBLE_UF": 685,
+    "HELD_OUT_EVALUATION_ONLY": 456,
+    "EXCLUDE_FETUS_VISIBLE": 64
+  },
+  "recovered_scans_summary": {
+    "total_recovered": 321,
+    "recovered_uf": 43,
+    "recovered_nuf": 278
+  },
+  "excluded_scans_summary": {
+    "total_excluded": 64,
+    "fetus_visible_excluded": 64,
+    "unrelated_anatomy_excluded": 0,
+    "corrupt_or_unreadable_excluded": 0
+  },
+  "calipers_and_doppler_census": {
+    "calipers_present_count": 1165,
+    "color_doppler_present_count": 1675
+  },
+  "development_folds_status": "READY_FOR_E0_RETRAINING"
+}

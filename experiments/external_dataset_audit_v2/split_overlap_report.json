@@ -1,0 +1,64 @@
+{
+  "reconciliation_version": "2.0_AUDIT_CORRECTED",
+  "total_external_files_audited": 3315,
+  "total_unique_source_groups": 467,
+  "source_type_breakdown": {
+    "DICOM_source_scans": 461,
+    "non_DICOM_source_scans": 6
+  },
+  "held_out_test_overlap_reconciliation": {
+    "external_file_records_leaking": 804,
+    "unique_source_groups_leaking": 113,
+    "unique_matched_test_image_paths": 113,
+    "inflation_ratio": 7.12,
+    "critical_warning": "FATAL LEAKAGE RECONCILED: Exactly 113 unique held-out test scans (from the 321-scan clean test set) are replicated across 804 external image files due to multi-project merging and horizontal flips. Training on the external dataset causes direct, severe test data leakage."
+  },
+  "clean_train_set_overlap": {
+    "external_file_records": 2214,
+    "unique_source_groups": 313,
+    "unique_matched_train_paths": 313
+  },
+  "quarantined_excluded_set_overlap": {
+    "external_file_records": 237,
+    "unique_source_groups": 33,
+    "unique_matched_excluded_paths": 33,
+    "contamination_reasons": {
+      "OB_CONTAMINATION: ObstetricChinese(\u65e9\u5b55)": 153,
+      "OB_CONTAMINATION: ObstetricChinese(\u5b55\u9f84)": 44,
+      "color_doppler_flow_map": 22,
+      "OB_CONTAMINATION: ObstetricChinese(\u80ce\u513f)": 6,
+      "OB_CONTAMINATION: ObstetricRegex(24w4d), ObstetricChinese(\u5b55\u9f84)": 6,
+      "OB_CONTAMINATION: ObstetricRegex(24W4d), ObstetricChinese(\u5b55\u9f84)": 6
+    }
+  },
+  "v2_unassigned_overlap": {
+    "external_file_records": 15,
+    "unique_source_groups": 2
+  },
+  "genuinely_new_candidates": {
+    "external_file_records": 45,
+    "unique_source_groups": 6,
+    "source_stems": [
+      "images-1-",
+      "images-2-",
+      "images-3-",
+      "images-4-",
+      "images-5-",
+      "images-6-"
+    ]
+  },
+  "disposition_file_counts": {
+    "REDUNDANT_TRAINING_COPY": 2214,
+    "EXCLUDE_STRICT_LEAKAGE": 804,
+    "EXCLUDE_QUARANTINED": 237,
+    "GENUINELY_NEW_CANDIDATE": 45,
+    "V2_UNASSIGNED_OVERLAP": 15
+  },
+  "disposition_source_group_counts": {
+    "REDUNDANT_TRAINING_COPY": 313,
+    "EXCLUDE_STRICT_LEAKAGE": 113,
+    "EXCLUDE_QUARANTINED": 33,
+    "GENUINELY_NEW_CANDIDATE": 6,
+    "V2_UNASSIGNED_OVERLAP": 2
+  }
+}

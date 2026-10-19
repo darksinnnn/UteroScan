@@ -1,0 +1,12 @@
+{
+  "name": "uteroscan-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "UteroScan: AI-Powered CADx Platform for Uterine Fibroid Detection in Ultrasound",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "dev:frontend": "npm --prefix frontend run dev:frontend",
+    "dev:backend": "python api/server.py",
+    "build": "npm --prefix frontend run build"
+  }
+}

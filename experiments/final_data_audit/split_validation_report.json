@@ -1,0 +1,54 @@
+{
+  "status": "VALIDATED",
+  "development_cohort": {
+    "total_scans": 1474,
+    "uf_count": 685,
+    "nuf_count": 789,
+    "distinct_study_groups": 917,
+    "distinct_duplicate_families": 1474
+  },
+  "per_fold_distribution": {
+    "fold_0": {
+      "total": 302,
+      "uf": 135,
+      "nuf": 167,
+      "study_groups": 185
+    },
+    "fold_1": {
+      "total": 280,
+      "uf": 135,
+      "nuf": 145,
+      "study_groups": 178
+    },
+    "fold_2": {
+      "total": 311,
+      "uf": 138,
+      "nuf": 173,
+      "study_groups": 186
+    },
+    "fold_3": {
+      "total": 294,
+      "uf": 136,
+      "nuf": 158,
+      "study_groups": 185
+    },
+    "fold_4": {
+      "total": 287,
+      "uf": 141,
+      "nuf": 146,
+      "study_groups": 183
+    }
+  },
+  "held_out_evaluation_cohort": {
+    "total_scans": 456,
+    "uf_count": 192,
+    "nuf_count": 264
+  },
+  "assertions": [
+    "PASS: 100% of development scans assigned to folds [0, 4].",
+    "PASS: Strict zero study group leakage across all 5 development folds.",
+    "PASS: Strict zero duplicate family leakage across all 5 development folds.",
+    "PASS: Strict zero study group overlap between development and held-out evaluation cohort.",
+    "PASS: Strict zero duplicate family overlap between development and held-out evaluation cohort."
+  ]
+}

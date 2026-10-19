@@ -1,0 +1,32 @@
+{
+  "status": "INPUTS_VERIFIED",
+  "timestamp": "2026-10-15 20:34:55",
+  "total_development_scans": 1474,
+  "uf_count": 685,
+  "nuf_count": 789,
+  "fold_counts": {
+    "0": 302,
+    "1": 280,
+    "2": 311,
+    "3": 294,
+    "4": 287
+  },
+  "distinct_study_groups": 917,
+  "distinct_duplicate_families": 1474,
+  "quarantined_fetal_scans_leakage": 0,
+  "held_out_evaluation_leakage": 0,
+  "cross_fold_study_group_leakage": 0,
+  "cross_fold_duplicate_family_leakage": 0,
+  "differential_lrs": {
+    "conv1_bn1_layer1_layer2": 1e-05,
+    "layer3_layer4": 5e-05,
+    "fc": 0.0001
+  },
+  "optimizer": "Adam",
+  "weight_decay": 0.0001,
+  "batch_size": 16,
+  "max_epochs": 8,
+  "patience": 4,
+  "seed": 42,
+  "device": "cuda"
+}
